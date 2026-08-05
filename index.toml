@@ -5045,11 +5045,6 @@ file = "resourcepacks/Unique Dark - Lite - 1.20.2-26.x.zip"
 hash = "47135724573895393ce9a2f2292724e616670e0f8b5bbea6af4b97be782ace26"
 
 [[files]]
-file = "resourcepacks/clean-connected-glass.pw.toml"
-hash = "da64f35d1f9b3e25fa88b2655595860e7ca1fcb8aeecae265afcb4105bf7c3d6"
-metafile = true
-
-[[files]]
 file = "resourcepacks/clearer-water.pw.toml"
 hash = "445a89479c8f8f861a699b192dba47528eaff105a619e44390c242d1fca50ef9"
 metafile = true
@@ -5067,9 +5062,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/terrabiomes-music.pw.toml"
 hash = "56854707d200a78a761e0d00f209e6dbd73a5e2a33026a6fe5629596a8b866d1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unique-dark.pw.toml"
-hash = "f798e5d47c57fa934c843f486fd2120e1ed9cae903331f78d017b7ccb7c6629f"
 metafile = true
