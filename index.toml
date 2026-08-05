@@ -4725,11 +4725,6 @@ hash = "0e8552e6bad497fc724411a5f53c08874b16e044f012fda12dea27d5f434a099"
 metafile = true
 
 [[files]]
-file = "mods/server-password-without-login.pw.toml"
-hash = "184853cadbc00a520f21d336a64d188194a0eb11fc17d4195cdf4649804a816b"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "33454564d216f62d011ac78fc0aa2a49977ac1161f10f4accb1d33a9934969df"
 metafile = true
