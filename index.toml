@@ -3226,7 +3226,7 @@ hash = "e60e6c06e1eab7094f2693c3ffe07ccb2b4d9938031179af4d44b45dd3562320"
 
 [[files]]
 file = "gitattributes"
-hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+hash = "f70d755466b101646b043fe3c62c4f8a39eae827c1a2a303a2d39ccd93f534f8"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
