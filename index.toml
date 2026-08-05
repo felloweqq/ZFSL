@@ -4638,9 +4638,8 @@ hash = "3b34bbad74f1d3474391def2c776b83e0b2a1735a2cacf38260a30355b04c4b1"
 metafile = true
 
 [[files]]
-file = "mods/realm-rpg-treasure-balloons.pw.toml"
-hash = "65b08ef670a2838ca8a97b7acb100de8d2cf21bf8ebdfd14d78b725fd7a6df7e"
-metafile = true
+file = "mods/realmrpg_balloons-1.0.0-neoforge-1.21.1.jar"
+hash = "6a0e21427f4fadcf793f9c58f0ab49933cb4ec022377894283fc2ec9b371ffb8"
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
