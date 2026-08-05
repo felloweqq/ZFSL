@@ -3225,6 +3225,10 @@ file = "datapacks/undead-unleashed-tweaks/pack.mcmeta"
 hash = "e60e6c06e1eab7094f2693c3ffe07ccb2b4d9938031179af4d44b45dd3562320"
 
 [[files]]
+file = "gitattributes"
+hash = "f1c49afdbf5c184940b9d1b0dcb6e070c8ca915a36d6c2b7f5a4c641e1080aea"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "0085d9a1eb73a68fe1d07f26b27fb93b0e1a582ab0f47d068fc94d055165aa99"
 metafile = true
