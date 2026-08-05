@@ -2055,10 +2055,6 @@ file = "config/yo_hooks/yo_hooks-server.json"
 hash = "68fe9a5475ff4aa45a805d878986a680bf788879f7b575b80ea1283c03502715"
 
 [[files]]
-file = "datapacks/Tide Extra Compatibility 2.2.zip"
-hash = "a7b2fe5a6ac591e127ac1ce6f35074baecc7e4e5b5f4842eae824c208a55cbee"
-
-[[files]]
 file = "datapacks/alshanexs-familiars-taming-item/data/familiarslib/tags/item/familiar_taming.json"
 hash = "d24e02ea62d77ef2ae611291c5fdd6df77e8e897c47596281599f8e2e911c048"
 
