@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "cbc",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "minecraft:barrel"
+    },
+	"c": {
+    "item": "minecraft:copper_ingot"
+	}
+  },
+  "result": {
+    "id": "ironbarrels:iron_barrel",
+    "count": 1
+  }
+}

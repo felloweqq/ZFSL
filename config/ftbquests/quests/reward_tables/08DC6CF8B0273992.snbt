@@ -1,0 +1,116 @@
+{
+	id: "08DC6CF8B0273992"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{
+			count: 8
+			id: "02ED0D7AAD091461"
+			item: {
+				count: 1
+				id: "minecraft:egg"
+			}
+			random_bonus: 8
+			weight: 4.0f
+		}
+		{
+			id: "3C31BC50120F693F"
+			item: {
+				count: 1
+				id: "minecraft:turtle_egg"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{ id: "58B390795958086F", item: { count: 1, id: "primal:crocodile_egg" } }
+		{ id: "2CAAF31B145638B4", item: { count: 1, id: "primal:eagle_egg" } }
+		{
+			count: 2
+			id: "64700F35137C164E"
+			item: {
+				count: 1
+				id: "clutterbestiary:kiwi_bird_egg"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "4E39094E5FB0C89F"
+			item: {
+				count: 1
+				id: "clutterbestiary:emperor_penguin_egg"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "6F9A57045F9E7A93"
+			item: {
+				count: 1
+				id: "minecraft:sniffer_egg"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "5ECFDF5451FA7CA1"
+			item: {
+				count: 1
+				id: "chickensaurs:chickensaur_egg"
+			}
+			random_bonus: 1
+			weight: 0.6f
+		}
+		{ id: "2CFCC17EED8F9333", item: { count: 1, id: "mynethersdelight:enchanted_golden_egg" } }
+		{
+			id: "5392B160081B4E5E"
+			item: {
+				count: 1
+				id: "quark:egg_parrot_gray"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "674F1959576D4543"
+			item: {
+				count: 1
+				id: "quark:egg_parrot_yellow_blue"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "024D8E8AED41BBBA"
+			item: {
+				count: 1
+				id: "quark:egg_parrot_green"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "3705D2D3E7E9C1BA"
+			item: {
+				count: 1
+				id: "quark:egg_parrot_blue"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "2602818416FF1D01"
+			item: {
+				count: 1
+				id: "quark:egg_parrot_red_blue"
+			}
+			random_bonus: 1
+		}
+		{ id: "65A42DCAA2E909A2", item: { count: 1, id: "primal:cassowary_egg" } }
+		{
+			id: "482BB6B8278111A0"
+			item: {
+				components: {
+					"dmr:dragon_breed": "end"
+				}
+				count: 1
+				id: "dmr:dragon_egg"
+			}
+			weight: 0.02f
+		}
+	]
+}

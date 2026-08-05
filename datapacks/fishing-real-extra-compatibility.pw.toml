@@ -1,0 +1,13 @@
+name = "Fishing Real Extra Compatibility"
+filename = "Fishing Real Extra Compatibility 1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2eedfa20daaaf19190e721e68f59e6005e586976"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8266849
+project-id = 1571123

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S  ",
+    "SSS",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "nomansland:sturdy_scute"
+    }
+  },
+  "result": {
+    "id": "minecraft:wolf_armor",
+    "count": 1
+  }
+}

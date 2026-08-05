@@ -1,0 +1,96 @@
+{
+	id: "1A7AE3046A40B711"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			count: 8
+			id: "39799C291CAF3190"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "0B862F617CAC2E68"
+			item: {
+				count: 1
+				id: "minecraft:melon_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "4822914DAB351E04"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "0B29B4B0772E53E2"
+			item: {
+				count: 1
+				id: "nirvana:hemp_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "479066003604DC67"
+			item: {
+				count: 1
+				id: "supplementaries:flax_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "281E981D28D16DEF"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "1D0AC38A8706BED3"
+			item: {
+				count: 1
+				id: "farmersdelight:tomato_seeds"
+			}
+		}
+		{ id: "79ABC6678127CC87", item: { count: 1, id: "mowziesmobs:foliaath_seed" } }
+		{
+			count: 8
+			id: "47547622F5AF761D"
+			item: {
+				count: 1
+				id: "rusticdelight:cotton_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "22942098CAA5124D"
+			item: {
+				count: 1
+				id: "rusticdelight:bell_pepper_seeds"
+			}
+		}
+		{
+			count: 8
+			id: "28C68E574A389FE2"
+			item: {
+				count: 1
+				id: "farmerspizzeria:basil"
+			}
+		}
+		{
+			count: 8
+			id: "26415D44C42CD3E4"
+			item: {
+				count: 1
+				id: "delighto_flight:lotus_seeds"
+			}
+		}
+	]
+}

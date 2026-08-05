@@ -1,0 +1,15 @@
+{
+  "type": "oritech:grinder",
+  "ingredients": [
+    {
+      "item": "minecraft:torchflower"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:blaze_powder"
+    }
+  ],
+  "time": 120
+}

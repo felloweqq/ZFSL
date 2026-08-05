@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:dirt"
+  },
+  "count1": 16,
+  "ingredient2": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "minecraft:steak"
+  },
+  "count3": 8,
+  "result": {
+    "id": "minecraft:player_head",
+    "count": 1
+  },
+  "cost": 55,
+  "processTime": 1200,
+  "id": "cognition:player_head_metamorphosis"
+}

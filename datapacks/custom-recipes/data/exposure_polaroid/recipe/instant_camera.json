@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "B": {
+      "tag": "minecraft:buttons"
+    },
+    "G": {
+      "tag": "c:glass_panes/colorless"
+    },
+    "I": {
+      "tag": "c:ingots/iron"
+    },
+    "E": {
+      "item": "oritech:energite_dust"
+    },
+    "C": {
+      "item": "minecraft:crafter"
+    }
+  },
+  "pattern": [
+    "III",
+    "BGE",
+    "ICI"
+  ],
+  "result": {
+    "id": "exposure_polaroid:instant_camera"
+  }
+}

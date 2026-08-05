@@ -1,0 +1,22 @@
+{
+	id: "30413B057DE8C166"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{ id: "4E0989BAC1795A3F", item: { count: 1, id: "sticknstone:stone_cutlass" } }
+		{ id: "14593BC90E0CD1F2", item: { count: 1, id: "sticknstone:stone_claymore" } }
+		{ id: "031AD609015BCC57", item: { count: 1, id: "sticknstone:stone_greathammer" } }
+		{ id: "1D151B0CB094AF0F", item: { count: 1, id: "sticknstone:stone_greataxe" } }
+		{ id: "5C0E97A5279863FC", item: { count: 1, id: "sticknstone:stone_twinblade" } }
+		{ id: "6C84E63E29D5C93E", item: { count: 1, id: "sticknstone:stone_glaive" } }
+		{ id: "38862B4A3AE38D8F", item: { count: 1, id: "sticknstone:stone_chakram" } }
+		{ id: "15C97A5CA2F67F7F", item: { count: 1, id: "sticknstone:stone_halberd" } }
+		{ id: "7A78108ED6D1EBC6", item: { count: 1, id: "sticknstone:stone_longsword" } }
+		{ id: "4963974234E905BB", item: { count: 1, id: "sticknstone:stone_katana" } }
+		{ id: "716D1729C2C25E32", item: { count: 1, id: "sticknstone:stone_spear" } }
+		{ id: "3E40D2D8BE9E2490", item: { count: 1, id: "sticknstone:stone_sai" } }
+		{ id: "17A6A9D0C7BD56C5", item: { count: 1, id: "sticknstone:stone_warglaive" } }
+		{ id: "37BACA59F48A7373", item: { count: 1, id: "sticknstone:stone_rapier" } }
+		{ id: "2078BA3593B00B71", item: { count: 1, id: "sticknstone:stone_scythe" } }
+	]
+}

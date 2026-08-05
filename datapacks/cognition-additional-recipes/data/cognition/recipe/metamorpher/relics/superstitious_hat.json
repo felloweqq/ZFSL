@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:cauldron"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "minecraft:raw_gold_block"
+  },
+  "count2": 8,
+  "ingredient3": {
+    "item": "minecraft:rabbit_foot"
+  },
+  "count3": 2,
+  "result": {
+    "id": "artifacts:superstitious_hat",
+    "count": 1
+  },
+  "cost": 1395,
+  "processTime": 3600,
+  "id": "cognition:superstitious_hat_metamorphosis"
+}

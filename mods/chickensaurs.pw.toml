@@ -1,0 +1,13 @@
+name = "Chickensaurs"
+filename = "chickensaurs-neoforge-1.21.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/I3lDQn3Y/versions/orOfLmU0/chickensaurs-neoforge-1.21.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "9cd04bae3e5c534df6af6de944cfedb06af5bdd821ced6b342b032f7244911a53a7752cf05d0e8e666e5dfe53cad347664c8656383e6238b7c7d6d6432cf89ea"
+
+[update]
+[update.modrinth]
+mod-id = "I3lDQn3Y"
+version = "orOfLmU0"

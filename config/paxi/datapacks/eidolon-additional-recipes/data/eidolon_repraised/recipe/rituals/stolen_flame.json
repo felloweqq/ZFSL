@@ -1,0 +1,29 @@
+{
+  "type": "eidolon_repraised:ritual_brazier",
+  "focus_items": [],
+  "health_requirement": 2.0,
+  "pedestal_items": [
+    {
+      "item": "eidolon_repraised:enchanted_ash"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "oritech:gold_dust"
+    },
+    {
+      "item": "minecraft:gunpowder"
+    },
+    {
+      "item": "eidolon_repraised:enchanted_ash"
+    }
+  ],
+  "reagent": {
+    "item": "minecraft:torchflower"
+  },
+  "result": {
+    "count": 2,
+    "id": "minecraft:blaze_powder"
+  }
+}

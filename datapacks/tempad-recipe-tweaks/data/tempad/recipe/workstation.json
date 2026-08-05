@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "c:glass_blocks/tinted"
+    },
+    "Q": {
+      "item": "oritech:magnetic_coil"
+    },
+    "T": {
+      "item": "tempad:time_steel"
+    },
+    "c": {
+      "item": "refinedstorage:quartz_enriched_copper"
+    }
+  },
+  "pattern": [
+    "GG ",
+    "ccc",
+    "TQT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tempad:workstation"
+  }
+}

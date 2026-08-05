@@ -1,0 +1,16 @@
+{
+	id: "10E1D2187CFDDEDF"
+	loot_size: 1
+	order_index: 18
+	rewards: [
+		{ id: "5D86582F64691DA9", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:fire" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "5B5DE4FEA459A9A5", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:nature" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "79F894C57B5D8DA6", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:ice" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "096753FB40A38E86", item: { components: { "irons_restrictions:school_component": "gtbcs_geomancy_plus:geo" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "29DCC70EEB18B890", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:lightning" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "55191AB9FBB79F3D", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:holy" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "2179E6C5477EAC20", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:blood" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "0DAA5F8E5D285DD2", item: { components: { "irons_restrictions:school_component": "irons_spellbooks:ender" }, count: 1, id: "irons_restrictions:manuscript" } }
+		{ id: "4651E68677593D2B", item: { components: { "irons_restrictions:school_component": "wind_spellbooks:wind" }, count: 1, id: "irons_restrictions:manuscript" } }
+	]
+}

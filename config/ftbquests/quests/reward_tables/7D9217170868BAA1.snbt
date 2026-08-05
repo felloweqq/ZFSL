@@ -1,0 +1,25 @@
+{
+	id: "7D9217170868BAA1"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			count: 2
+			id: "59DFE59D9C653271"
+			item: {
+				count: 1
+				id: "cold_sweat:goat_fur"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "39E9F107B695A07A"
+			item: {
+				count: 1
+				id: "cold_sweat:hoglin_hide"
+			}
+			random_bonus: 1
+		}
+	]
+}

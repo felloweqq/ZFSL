@@ -1,0 +1,13 @@
+name = "FastConfigAPI"
+filename = "fastconfigapi-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7390f37e08ace56cff4bb864af0da62b49dcb7a9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5980402
+project-id = 990853

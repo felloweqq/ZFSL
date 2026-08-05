@@ -1,0 +1,39 @@
+{
+  "debug": false,
+  "offsetX100": -250,
+  "offsetY100": -50,
+  "offsetZ100": -660,
+  "pivotX100": 500,
+  "pivotY100": 600,
+  "pivotZ100": 500,
+  "rotXDeg": 180,
+  "rotYDeg": 0,
+  "rotZDeg": 0,
+  "scale100": 600,
+  "extraLampLight": [
+    {
+      "id": "fangs_n_claws:vile_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "dungeonsdelight:living_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "eternal_starlight:amaramber_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "eternal_starlight:eternal_ice_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "eternal_starlight:haze_ice_lantern",
+      "luminance": 15
+    },
+    {
+      "id": "darkerdepths:glowshroom_lantern",
+      "luminance": 15
+    }
+  ]
+}

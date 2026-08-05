@@ -1,0 +1,246 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "rytuay_i_magia"
+	group: ""
+	id: "7F87C18D7D4699ED"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0D407BC4E2457D55"
+			rewards: [
+				{
+					id: "5C809133AFE5ABFC"
+					item: {
+						count: 1
+						id: "eidolon_repraised:codex"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "1CE87120DD557BAE"
+					item: {
+						count: 1
+						id: "eidolon_repraised:pewter_blend"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "55E86DA1907B1487"
+				item: { count: 1, id: "eidolon_repraised:raw_lead" }
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "09BB26EF5A768E43"
+			rewards: [
+				{
+					id: "0AF0BC2E7B2E46E2"
+					item: {
+						count: 1
+						id: "minecraft:bone_meal"
+					}
+					type: "item"
+				}
+				{
+					count: 2
+					id: "26AC8196853FE6E8"
+					item: {
+						count: 1
+						id: "minecraft:redstone"
+					}
+					type: "item"
+				}
+				{
+					id: "22941AB0C4FA0CEF"
+					type: "xp"
+					xp: 50
+				}
+				{
+					count: 10
+					id: "45A18E802EC577F7"
+					item: {
+						count: 1
+						id: "eidolon_repraised:enchanted_ash"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "654CBDFBCBA4B5F0"
+					item: { count: 1, id: "eidolon_repraised:brazier" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "69B74403E1EF922C"
+					item: { count: 1, id: "eidolon_repraised:stone_hand" }
+					type: "item"
+				}
+				{
+					id: "0192D85A450F8BD4"
+					item: { count: 1, id: "minecraft:flint_and_steel" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "364F3CAB81187909"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4145D91DEB50BFCE"
+					table_id: 7717483006099810135L
+					type: "loot"
+				}
+				{
+					id: "485AEAAF99523A60"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [{
+				id: "37F93B2FCCE0D34B"
+				item: { count: 1, id: "eidolon_repraised:crucible" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "24C709911FA83CE4"
+			rewards: [
+				{
+					id: "3E8B697A610FD9A7"
+					type: "xp"
+					xp: 35
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7D02A6B75AC7EB34"
+					table_id: 4381546058069320023L
+					type: "loot"
+				}
+			]
+			tasks: [{
+				id: "4D9D6C724DDEB645"
+				item: { count: 1, id: "eidolon_repraised:wooden_brewing_stand" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "685EDD2EB331636D"
+			rewards: [{
+				id: "1F0332E60D6D644E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2B34C7E5DFA3B4DB"
+				item: { count: 1, id: "eidolon_repraised:worktable" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			id: "19CB176EF5985F56"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79DE945441C1A313"
+				table_id: 4381546058069320023L
+				type: "loot"
+			}]
+			tasks: [
+				{
+					id: "635FFA14619530E0"
+					item: { count: 1, id: "eidolon_repraised:straw_effigy" }
+					type: "item"
+				}
+				{
+					count: 3L
+					id: "5A689046AA4D0457"
+					item: { count: 1, id: "eidolon_repraised:wooden_altar" }
+					type: "item"
+				}
+				{
+					id: "6C21AA611184BA6B"
+					item: { count: 1, id: "minecraft:lantern" }
+					type: "item"
+				}
+			]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			id: "0AD6D7C2D60DB176"
+			rewards: [{
+				id: "091307A6D164D052"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "6FDF9EC474CA1BC3"
+					item: { count: 1, id: "eidolon_repraised:codex" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					advancement: "eidolon_repraised:wicked_path"
+					criterion: ""
+					id: "1D06DA0739986FBF"
+					type: "advancement"
+				}
+			]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			id: "3FF0167BBF754C38"
+			rewards: [{
+				id: "2636CC8E65E157CD"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [
+				{
+					id: "507B53D966538577"
+					item: { count: 1, id: "eidolon_repraised:codex" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					advancement: "eidolon_repraised:sacred_path"
+					criterion: ""
+					id: "32BA5027F4930097"
+					type: "advancement"
+				}
+			]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			id: "0F224D27E06D41B7"
+			tasks: [{
+				id: "6990E0D1D502759B"
+				item: { count: 1, id: "eidolon_repraised:glass_hand" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -2.0d
+		}
+	]
+}

@@ -1,0 +1,13 @@
+name = "More Armor Trims [FABRIC/NEOFORGE]"
+filename = "more_armor_trims-neoforge-1.5.3-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "caee04506da774f0cedc961b4eac4960cdd7df64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7547104
+project-id = 876103

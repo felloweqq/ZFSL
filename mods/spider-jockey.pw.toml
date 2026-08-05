@@ -1,0 +1,13 @@
+name = "Spider Jockey"
+filename = "spider-jockey-1.0.1-mc-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d02a335dca8e2094561880af5c57aedcbd890c25"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6872359
+project-id = 1247567

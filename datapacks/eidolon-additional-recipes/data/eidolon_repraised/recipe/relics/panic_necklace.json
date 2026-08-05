@@ -1,0 +1,26 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    " s ",
+    "s s",
+    " c "
+  ],
+  "reagents": [
+    "d"
+  ],
+  "key": {
+    "d": {
+    	"item": "eidolon_repraised:deathbane_incense"
+    },
+    "s": {
+    	"item": "minecraft:string"
+    },
+    "c": {
+    	"item": "eidolon_repraised:crimson_gem"    
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "artifacts:panic_necklace"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "oritech:platinum_ingot"
+  },
+  "count1": 6,
+  "ingredient2": {
+    "item": "exposure:high_sensitivity_color_film"
+  },
+  "count2": 2,
+  "ingredient3": {
+    "item": "minecraft:phantom_membrane"
+  },
+  "count3": 12,
+  "result": {
+    "id": "artifacts:night_vision_goggles",
+    "count": 1
+  },
+  "cost": 352,
+  "processTime": 3600,
+  "id": "cognition:night_vision_goggles_metamorphosis"
+}

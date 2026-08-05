@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	" L ",
+    "AGA"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather_helmet"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+	},
+    "G": {
+      "item": "minecraft:gold_ingot"
+	}
+  },
+  "result": {
+    "id": "irons_spellbooks:wandering_magician_helmet"
+  }
+}

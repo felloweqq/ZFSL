@@ -1,0 +1,13 @@
+name = "MoreBeeInfo"
+filename = "MoreBeeInfo-neoforge-1.21-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3e3d44330789a1be250e91ad0f7b1e5af0c2be7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8102016
+project-id = 659496

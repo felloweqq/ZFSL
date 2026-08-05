@@ -1,0 +1,171 @@
+{
+	id: "6B1A01E7B2B16757"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{
+			count: 8
+			id: "1111ACEC98A80DC7"
+			item: {
+				count: 1
+				id: "minecraft:leather"
+			}
+		}
+		{
+			count: 4
+			id: "3830B2835A82F61B"
+			item: {
+				count: 1
+				id: "minecraft:rabbit_hide"
+			}
+		}
+		{
+			count: 12
+			id: "5FFF9D07F229F8E4"
+			item: {
+				count: 1
+				id: "minecraft:feather"
+			}
+		}
+		{
+			id: "42F59406DE1A52F8"
+			item: {
+				count: 1
+				id: "minecraft:rabbit_foot"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 8
+			id: "27618FCF3BCC239C"
+			item: {
+				count: 1
+				id: "minecraft:ink_sac"
+			}
+		}
+		{
+			count: 8
+			id: "5252432C59424D38"
+			item: {
+				count: 1
+				id: "minecraft:glow_ink_sac"
+			}
+		}
+		{
+			count: 4
+			id: "27EE1955DB92C330"
+			item: {
+				count: 1
+				id: "minecraft:string"
+			}
+		}
+		{
+			count: 4
+			id: "3A89AF5C9C1E02CD"
+			item: {
+				count: 1
+				id: "minecraft:spider_eye"
+			}
+		}
+		{
+			count: 4
+			id: "33D76070A8C9C711"
+			item: {
+				count: 1
+				id: "minecraft:bone"
+			}
+		}
+		{
+			count: 4
+			id: "3B53DD938512C62A"
+			item: {
+				count: 1
+				id: "minecraft:rotten_flesh"
+			}
+		}
+		{
+			count: 4
+			id: "1B79C02ADDB8E701"
+			item: {
+				count: 1
+				id: "minecraft:gunpowder"
+			}
+		}
+		{
+			auto: "enabled"
+			count: 2
+			id: "297D5BE422DDB4C7"
+			item: {
+				count: 1
+				id: "minecraft:slime_ball"
+			}
+		}
+		{
+			count: 8
+			id: "68E0CD9A55255C44"
+			item: {
+				count: 1
+				id: "irons_spellbooks:arcane_essence"
+			}
+		}
+		{
+			count: 2
+			id: "445C8EE92CD59C16"
+			item: {
+				count: 1
+				id: "minecraft:magma_cream"
+			}
+		}
+		{
+			id: "4EBBCD6A4C4B9818"
+			item: {
+				count: 1
+				id: "minecraft:blaze_rod"
+			}
+			random_bonus: 1
+			weight: 0.8f
+		}
+		{
+			id: "53E7A898DEE68D37"
+			item: {
+				count: 1
+				id: "minecraft:ghast_tear"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 2
+			id: "71FC48375136B182"
+			item: {
+				count: 1
+				id: "cold_sweat:hoglin_hide"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "448E36AD4A28D567"
+			item: {
+				count: 1
+				id: "royalvariations:spiritual_crown_shard"
+			}
+			random_bonus: 1
+			weight: 0.6f
+		}
+		{
+			id: "71A3C9E82F305674"
+			item: {
+				count: 1
+				id: "minecraft:wither_skeleton_skull"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 8
+			id: "78F4103A907ABC40"
+			item: {
+				count: 1
+				id: "minecraft:white_wool"
+			}
+		}
+	]
+}

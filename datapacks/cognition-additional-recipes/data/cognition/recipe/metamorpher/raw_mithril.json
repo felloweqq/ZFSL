@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "irons_spellbooks:arcane_rune"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "oritech:platinum_dust"
+  },
+  "count3": 4,
+  "result": {
+    "id": "irons_spellbooks:mithril_ingot",
+    "count": 1
+  },
+  "cost": 550,
+  "processTime": 400,
+  "id": "cognition:raw_mithril_metamorphosis"
+}

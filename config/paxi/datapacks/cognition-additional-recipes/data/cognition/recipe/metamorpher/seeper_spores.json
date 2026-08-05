@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:glowstone_dust"
+  },
+  "count1": 2,
+  "ingredient2": {
+    "item": "eidolon_repraised:soul_shard"
+  },
+  "count2": 2,
+  "ingredient3": {
+    "item": "eidolon_repraised:oanna_bloom"
+  },
+  "count3": 1,
+  "result": {
+    "id": "adaptedmobs:support_creeper_spores",
+    "count": 4
+  },
+  "cost": 55,
+  "processTime": 720,
+  "id": "cognition:seeper_spores_metamorphosis"
+}

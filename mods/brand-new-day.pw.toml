@@ -1,0 +1,13 @@
+name = "Brand New Day"
+filename = "brandnewday-1.21.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07b9dac236c89a8136dca365a3b7b4605477ba0c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8317747
+project-id = 1587464

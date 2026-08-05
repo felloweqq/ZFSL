@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "teleportacja"
+	group: ""
+	id: "51571A25C334DBAD"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "089DE9E57C08EBA7"
+			tasks: [
+				{
+					id: "50CAB94DBE2209CE"
+					item: { components: { "tempad:chronon_content": 0 }, count: 1, id: "tempad:chronon_cell" }
+					type: "item"
+				}
+				{
+					id: "63850BBB4D90B2BC"
+					item: { count: 1, id: "tempad:chronon_generator" }
+					type: "item"
+				}
+			]
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			id: "1A45643F859B60C7"
+			tasks: [{
+				id: "5A68B9369083A4F9"
+				item: { components: { "tempad:enabled": 1b }, count: 1, id: "tempad:location_broadcaster" }
+				type: "item"
+			}]
+			x: 12.5d
+			y: -1.5d
+		}
+		{
+			id: "16405CD46460EFD5"
+			tasks: [
+				{
+					id: "391D98F99E276A5D"
+					item: { count: 1, id: "tempad:timedoor_marker" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "373172247A7F7C56"
+					item: { count: 1, id: "tempad:location_card" }
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "78E43E34C6797CE7"
+			tasks: [{
+				id: "2C5070C1E1B65A88"
+				item: { count: 1, id: "tempad:card_wallet" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			id: "5ECA8149D538F204"
+			rewards: [{
+				count: 2
+				id: "32E97775AD987458"
+				item: {
+					count: 1
+					id: "tempad:time_steel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 2L
+				id: "43C9A6EC44143FB7"
+				item: { count: 1, id: "tempad:time_steel" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "3CBBFA55D117EE1A"
+			tasks: [{
+				id: "489FF356A527A9CB"
+				item: { count: 1, id: "tempad:timedoor_projector" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			id: "6377B3C19B2B1B35"
+			tasks: [{
+				id: "7F072A1126069921"
+				item: { count: 1, id: "tempad:tempad" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -1.5d
+		}
+		{
+			id: "38EF0BA4CEFCAA93"
+			tasks: [{
+				id: "3B216CCFCCDF2AF4"
+				item: { count: 1, id: "tempad:metronome" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.5d
+		}
+		{
+			id: "0F117E2CD0882712"
+			tasks: [
+				{
+					id: "34CCC01D9543EFD2"
+					item: { count: 1, id: "tempad:chronon_battery" }
+					type: "item"
+				}
+				{
+					id: "756F83C5B93AB233"
+					item: { count: 1, id: "tempad:chronometer" }
+					type: "item"
+				}
+			]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			id: "26E495C90C5FD99F"
+			tasks: [{
+				id: "760D44560676AF42"
+				item: { count: 1, id: "tempad:workstation" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.5d
+		}
+		{
+			id: "5EAFC2A9A5F9FBA0"
+			rewards: [{
+				id: "1CC7566F37BF7133"
+				item: {
+					count: 1
+					id: "tempad:knowledge_projector"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					id: "52286D602E2C718E"
+					item: { count: 1, id: "minecraft:amethyst_shard" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "549CDCF69B2A47B8"
+					item: { count: 1, id: "minecraft:redstone" }
+					type: "item"
+				}
+			]
+			x: -7.5d
+			y: -1.5d
+		}
+	]
+}

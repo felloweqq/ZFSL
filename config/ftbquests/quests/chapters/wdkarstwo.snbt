@@ -1,0 +1,971 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wdkarstwo"
+	group: ""
+	id: "5CDCE2839EABB519"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0BCF556C26B07F6E"
+			rewards: [
+				{
+					id: "119B05B851D5FB77"
+					item: {
+						count: 1
+						id: "tide:fish_satchel"
+					}
+					type: "item"
+				}
+				{
+					id: "399DACEA5ABAF682"
+					item: {
+						count: 1
+						id: "tide:fish_display"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6D7FE774232A3ACE"
+				item: { count: 1, id: "minecraft:fishing_rod" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			id: "615374D9E2DB7AA6"
+			rewards: [
+				{
+					id: "5FD5CB2009A1A6AF"
+					item: {
+						count: 1
+						id: "tide:fishing_line"
+					}
+					type: "item"
+				}
+				{
+					id: "7FAFB3421EC24C99"
+					item: {
+						count: 1
+						id: "tide:red_bobber"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "58EC00443E563476"
+					item: {
+						count: 1
+						id: "minecraft:map"
+					}
+					random_bonus: 3
+					type: "item"
+				}
+				{
+					id: "435F5472B15B055F"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "7572548614803FD4"
+					item: { count: 1, id: "tide:angling_table" }
+					type: "item"
+				}
+				{
+					id: "4A7BF3F3372DFA7B"
+					item: { count: 1, id: "tide:fishing_hook" }
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: -1.5d
+		}
+		{
+			id: "038018A5A359F4C9"
+			rewards: [
+				{
+					count: 12
+					id: "1EFE1AEC25CEDD68"
+					item: {
+						count: 1
+						id: "tide:bait"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "66A15D3113A635DA"
+					item: {
+						count: 1
+						id: "tide:magnetic_bait"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "0DCE77EC006F7A98"
+					item: {
+						count: 1
+						id: "tide:lucky_bait"
+					}
+					type: "item"
+				}
+				{
+					id: "725D5D3359709FCF"
+					type: "xp"
+					xp: 40
+				}
+			]
+			tasks: [
+				{
+					id: "29971ABD3296DDC3"
+					item: { count: 1, id: "tide:climate_gauge" }
+					type: "item"
+				}
+				{
+					id: "212F955904DA40D9"
+					item: { count: 1, id: "tide:pocket_watch" }
+					type: "item"
+				}
+				{
+					id: "615BA8ECC4EBA04E"
+					item: { count: 1, id: "tide:lunar_calendar" }
+					type: "item"
+				}
+				{
+					id: "740FB4E5D65B436C"
+					item: { count: 1, id: "tide:depth_meter" }
+					type: "item"
+				}
+				{
+					id: "71B84BD6062FFBE0"
+					item: { count: 1, id: "tide:weather_radio" }
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "083D5D47015E48F4"
+			rewards: [
+				{
+					id: "10ACFF08078F58ED"
+					item: {
+						count: 1
+						id: "tide:duck_bobber"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "49577872504D1CF1"
+					table_id: 2501251208994366575L
+					type: "loot"
+				}
+				{
+					id: "3C601F36F8824AD5"
+					type: "xp"
+					xp: 30
+				}
+			]
+			tasks: [{
+				advancement: "tide:pull_crate"
+				criterion: ""
+				id: "6F8EBDB89AA86E27"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "5D9DC9ED0EE1AB7C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "232BD63E22655F02"
+					table_id: 4381546058069320023L
+					type: "loot"
+				}
+				{
+					id: "2B87070D27B89AFB"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "34236CDD2C951740"
+				item: { count: 1, id: "tide:obsidian_fragment" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 3.0d
+		}
+		{
+			id: "7DC43D0D5586DB90"
+			rewards: [
+				{
+					id: "4E281FD5C81B4A25"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
+				}
+				{
+					id: "687522BEFD1D51B5"
+					type: "xp_levels"
+					xp_levels: 200
+				}
+			]
+			tasks: [{
+				advancement: "tide:all_fishing_rods"
+				criterion: ""
+				id: "5A5604AEDB563E40"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 7.5d
+		}
+		{
+			id: "38A3FBF81F8A8A92"
+			rewards: [
+				{
+					id: "170945E408DCBB95"
+					item: {
+						components: {
+							"relics:data": {
+								abilities: {
+									abilities: {
+										snorkeling: {
+											lock: {
+												breaks: 5
+											}
+											points: 5
+											stats: {
+												drowning_resistance: {
+													initialQuality: 10
+												}
+												reserve_duration: {
+													initialQuality: 10
+												}
+												water_depth: {
+													initialQuality: 10
+												}
+											}
+										}
+									}
+									synergies: { }
+								}
+								leveling: {
+									level: 5
+									rank: 3
+								}
+								statistic: {
+									metrics: {
+										retention_time: {
+											value: 70.0d
+										}
+									}
+								}
+							}
+						}
+						count: 1
+						id: "artifacts:snorkel"
+					}
+					type: "item"
+				}
+				{
+					id: "16D48F87F16EB6BC"
+					item: {
+						components: {
+							"relics:data": {
+								abilities: {
+									abilities: {
+										regeneration: {
+											lock: {
+												breaks: 5
+											}
+											points: 0
+											stats: {
+												max_health: {
+													initialQuality: 10
+												}
+												regeneration: {
+													initialQuality: 10
+												}
+											}
+										}
+										shock: {
+											lock: {
+												breaks: 5
+											}
+											points: 0
+											stats: {
+												bounces: {
+													initialQuality: 10
+												}
+												cooldown: {
+													initialQuality: 10
+												}
+												damage: {
+													initialQuality: 10
+												}
+												damage_modifier: {
+													initialQuality: 10
+												}
+												distance: {
+													initialQuality: 10
+												}
+												duration: {
+													initialQuality: 10
+												}
+												knockback: {
+													initialQuality: 10
+												}
+												paralysis: {
+													initialQuality: 10
+												}
+												radius: {
+													initialQuality: 10
+												}
+												rings: {
+													initialQuality: 10
+												}
+											}
+										}
+									}
+									synergies: { }
+								}
+								leveling: { }
+								statistic: {
+									metrics: {
+										retention_time: {
+											value: 21.0d
+										}
+									}
+								}
+							}
+						}
+						count: 1
+						id: "relics:jellyfish_necklace"
+					}
+					type: "item"
+				}
+				{
+					count: 3
+					id: "1D7277DF08376D04"
+					item: {
+						count: 1
+						id: "minecraft:enchanted_golden_apple"
+					}
+					random_bonus: 2
+					type: "item"
+				}
+				{
+					id: "567249C1BD5DF189"
+					type: "xp"
+					xp: 1395
+				}
+			]
+			tasks: [{
+				advancement: "tide:journal_halfway_completed"
+				criterion: ""
+				id: "50782EAF1128B5BE"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -1.5d
+		}
+		{
+			id: "5C42E188AA148845"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4F2AD354098C85A1"
+					table_id: 2501251208994366575L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6F6BA0803472E1D3"
+					table_id: 7728654995812443223L
+					type: "choice"
+				}
+				{
+					id: "7F25870A47DCF0A5"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "tide:fish_in_lava"
+				criterion: ""
+				id: "6C1256C867470BC5"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			id: "26725949E2759EB2"
+			tasks: [{
+				advancement: "tide:fish_in_void"
+				criterion: ""
+				id: "6EBEA4474ED58E13"
+				type: "advancement"
+			}]
+			x: -0.5d
+			y: 4.5d
+		}
+		{
+			id: "13564BB91763C721"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4E063652C0F3A95E"
+					table_id: 8585514368098974498L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "382CB8E74284F1C4"
+					table_id: 638505062542817682L
+					type: "loot"
+				}
+				{
+					id: "564E2D7FC03B27F2"
+					type: "xp"
+					xp: 315
+				}
+			]
+			tasks: [
+				{
+					id: "7D3449D71C37CFE6"
+					item: { count: 1, id: "minecraft:salmon" }
+					type: "item"
+				}
+				{
+					id: "0EE4A32F8C80898D"
+					item: { components: { "tide:fish_length": 22.5d }, count: 1, id: "tide:yellow_perch" }
+					type: "item"
+				}
+				{
+					id: "4317BA14F4362948"
+					item: { components: { "tide:fish_length": 62.5d }, count: 1, id: "tide:rainbow_trout" }
+					type: "item"
+				}
+				{
+					id: "4AFA9538C78A98EE"
+					item: { components: { "tide:fish_length": 50.0d }, count: 1, id: "tide:largemouth_bass" }
+					type: "item"
+				}
+				{
+					id: "1FF671771D1D6A0B"
+					item: { components: { "tide:fish_length": 40.0d }, count: 1, id: "tide:brook_trout" }
+					type: "item"
+				}
+				{
+					id: "70B1F8587E08A171"
+					item: { components: { "tide:fish_length": 25.0d }, count: 1, id: "tide:white_crappie" }
+					type: "item"
+				}
+				{
+					id: "25822E6F86B61021"
+					item: { components: { "tide:fish_length": 30.0d }, count: 1, id: "tide:black_crappie" }
+					type: "item"
+				}
+				{
+					id: "0B25524A42F49BD4"
+					item: { components: { "tide:fish_length": 60.0d }, count: 1, id: "tide:carp" }
+					type: "item"
+				}
+				{
+					id: "4D4E418963CDA727"
+					item: { components: { "tide:fish_length": 43.5d }, count: 1, id: "tide:smallmouth_bass" }
+					type: "item"
+				}
+				{
+					id: "21C924CDB636C2D3"
+					item: { components: { "tide:fish_length": 70.0d }, count: 1, id: "tide:pike" }
+					type: "item"
+				}
+				{
+					id: "5056F20E16443AE7"
+					item: { components: { "tide:fish_length": 22.5d }, count: 1, id: "tide:bluegill" }
+					type: "item"
+				}
+				{
+					id: "749C5182A9ED1E62"
+					item: { components: { "tide:fish_length": 5.5d }, count: 1, id: "tide:guppy" }
+					type: "item"
+				}
+				{
+					id: "78A1F974DEA6F440"
+					item: { count: 1, id: "clutterbestiary:koi" }
+					type: "item"
+				}
+				{
+					id: "17C99953441A6817"
+					item: { components: { "tide:fish_length": 55.0d }, count: 1, id: "tide:walleye" }
+					type: "item"
+				}
+				{
+					id: "48C1735A475BDBA7"
+					item: { components: { "tide:fish_length": 57.5d }, count: 1, id: "tide:catfish" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			id: "640A218299487892"
+			rewards: [
+				{
+					id: "4F588FD189B85601"
+					item: {
+						components: {
+							"minecraft:damage": 143
+							"minecraft:enchantments": {
+								levels: {
+									"minecraft:loyalty": 2
+									"minecraft:unbreaking": 2
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:trident"
+					}
+					type: "item"
+				}
+				{
+					id: "62191A75AC691C97"
+					type: "xp"
+					xp: 160
+				}
+			]
+			tasks: [
+				{
+					id: "3530F43198859AFF"
+					item: { components: { "tide:fish_length": 37.5d }, count: 1, id: "tide:mackerel" }
+					type: "item"
+				}
+				{
+					id: "2FFAF352F5C98FB8"
+					item: { count: 1, id: "minecraft:cod" }
+					type: "item"
+				}
+				{
+					id: "16327FB9C3253BAB"
+					item: { count: 1, id: "minecraft:tropical_fish" }
+					type: "item"
+				}
+				{
+					id: "6FDD8BB2DF65798C"
+					item: { components: { "tide:fish_length": 120.0d }, count: 1, id: "tide:tuna" }
+					type: "item"
+				}
+				{
+					id: "14887C4CE611F210"
+					item: { components: { "tide:fish_length": 45.0d }, count: 1, id: "tide:red_snapper" }
+					type: "item"
+				}
+				{
+					id: "5E422DF509029EB9"
+					item: { components: { "tide:fish_length": 45.0d }, count: 1, id: "tide:ocean_perch" }
+					type: "item"
+				}
+				{
+					id: "42C9CAF45E5BC171"
+					item: { components: { "tide:fish_length": 53.0d }, count: 1, id: "tide:snook" }
+					type: "item"
+				}
+				{
+					id: "58E3FB336EF7B16A"
+					item: { components: { "tide:fish_length": 9.0d }, count: 1, id: "tide:anchovy" }
+					type: "item"
+				}
+				{
+					id: "4FEC1CFD43133ECB"
+					item: { components: { "tide:fish_length": 47.5d }, count: 1, id: "tide:flounder" }
+					type: "item"
+				}
+				{
+					id: "1BF2B5BC9EBA8A95"
+					item: { components: { "tide:fish_length": 11.5d }, count: 1, id: "tide:angelfish" }
+					type: "item"
+				}
+				{
+					id: "6B4CC502D553DC30"
+					item: { count: 1, id: "minecraft:pufferfish" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -3.0d
+		}
+		{
+			id: "24143DFFB2078D53"
+			rewards: [
+				{
+					count: 13
+					id: "65CE62DF5B86AF57"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					random_bonus: 13
+					type: "item"
+				}
+				{
+					count: 8
+					id: "198989C6019DE273"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					random_bonus: 8
+					type: "item"
+				}
+				{
+					count: 7
+					id: "09058C7769B8595D"
+					item: {
+						count: 1
+						id: "oritech:platinum_ingot"
+					}
+					random_bonus: 7
+					type: "item"
+				}
+				{
+					count: 45
+					id: "71B3481CA416F1F0"
+					item: {
+						count: 1
+						id: "minecraft:iron_ingot"
+					}
+					random_bonus: 45
+					type: "item"
+				}
+				{
+					count: 33
+					id: "3CC55E0660F5CBE6"
+					item: {
+						count: 1
+						id: "minecraft:gold_ingot"
+					}
+					random_bonus: 33
+					type: "item"
+				}
+				{
+					id: "37549E8CB681F35B"
+					item: {
+						components: {
+							"minecraft:stored_enchantments": {
+								levels: {
+									"minecraft:silk_touch": 1
+								}
+							}
+						}
+						count: 1
+						id: "minecraft:enchanted_book"
+					}
+					random_bonus: 1
+					type: "item"
+				}
+				{
+					id: "4CB9519B9B11D0AE"
+					type: "xp"
+					xp: 160
+				}
+			]
+			tasks: [
+				{
+					id: "0D66F39708C59B12"
+					item: { components: { "tide:fish_length": 102.5d }, count: 1, id: "tide:cave_eel" }
+					type: "item"
+				}
+				{
+					id: "1D918110FA824343"
+					item: { components: { "tide:fish_length": 65.0d }, count: 1, id: "tide:deep_grouper" }
+					type: "item"
+				}
+				{
+					id: "2B176B02F4FEC11C"
+					item: { components: { "tide:fish_length": 52.5d }, count: 1, id: "tide:cave_crawler" }
+					type: "item"
+				}
+				{
+					id: "53AE1ECDAE380686"
+					item: { components: { "tide:fish_length": 50.0d }, count: 1, id: "tide:shadow_snapper" }
+					type: "item"
+				}
+				{
+					id: "1251E72F2D1BD950"
+					item: { components: { "tide:fish_length": 27.5d }, count: 1, id: "tide:anglerfish" }
+					type: "item"
+				}
+				{
+					id: "5562C88DAA6BFAB7"
+					item: { components: { "tide:fish_length": 27.5d }, count: 1, id: "tide:abyss_angler" }
+					type: "item"
+				}
+				{
+					id: "09D8206FEE35C5A5"
+					item: { components: { "tide:fish_length": 3.65d }, count: 1, id: "tide:iron_tetra" }
+					type: "item"
+				}
+				{
+					id: "61CADC0FE7662899"
+					item: { components: { "tide:fish_length": 45.0d }, count: 1, id: "tide:dripstone_darter" }
+					type: "item"
+				}
+				{
+					id: "24640016C820D4C1"
+					item: { components: { "tide:fish_length": 10.0d }, count: 1, id: "tide:lapis_lanternfish" }
+					type: "item"
+				}
+				{
+					id: "4F654D96874A4C4B"
+					item: { components: { "tide:fish_length": 6.0d }, count: 1, id: "tide:crystal_shrimp" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -4.5d
+		}
+		{
+			id: "0B1042A6DAF1B191"
+			rewards: [
+				{
+					id: "58DDEA11432A324A"
+					item: {
+						components: {
+							"relics:data": {
+								abilities: {
+									abilities: {
+										flame: {
+											lock: {
+												breaks: 5
+											}
+											points: 0
+											stats: {
+												burning_damage_bonus: {
+													initialQuality: 10
+												}
+												fire_duration: {
+													initialQuality: 10
+												}
+												spark_count: {
+													initialQuality: 6
+												}
+												spark_damage: {
+													initialQuality: 9
+												}
+												spark_fire_duration: {
+													initialQuality: 8
+												}
+												spread_fire_duration: {
+													initialQuality: 10
+												}
+												spread_radius: {
+													initialQuality: 10
+												}
+											}
+										}
+									}
+									synergies: { }
+								}
+								leveling: { }
+								statistic: {
+									metrics: {
+										retention_time: {
+											value: 28.0d
+										}
+									}
+								}
+							}
+						}
+						count: 1
+						id: "artifacts:fire_gauntlet"
+					}
+					type: "item"
+				}
+				{
+					id: "3F2255A346C27888"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					id: "6ACADD0365698801"
+					type: "xp"
+					xp: 160
+				}
+			]
+			tasks: [
+				{
+					id: "17F9901F32AE4687"
+					item: { components: { "tide:fish_length": 37.5d }, count: 1, id: "tide:magma_mackerel" }
+					type: "item"
+				}
+				{
+					id: "58ED3CE3175B7627"
+					item: { components: { "tide:fish_length": 45.0d }, count: 1, id: "tide:ember_koi" }
+					type: "item"
+				}
+				{
+					id: "2C062D216B779C3D"
+					item: { components: { "tide:fish_length": 22.5d }, count: 1, id: "tide:ash_perch" }
+					type: "item"
+				}
+				{
+					id: "6A05DD89435CFF30"
+					item: { components: { "tide:fish_length": 70.0d }, count: 1, id: "tide:obsidian_pike" }
+					type: "item"
+				}
+				{
+					id: "255B02C9AB2519C0"
+					item: { components: { "tide:fish_length": 62.5d }, count: 1, id: "tide:volcano_tuna" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -6.0d
+		}
+		{
+			id: "13CCE6DFA2C5A44E"
+			rewards: [
+				{
+					id: "27C353DBFD77DE71"
+					item: {
+						count: 1
+						id: "quark:dragon_scale"
+					}
+					type: "item"
+				}
+				{
+					id: "3F87C049ECD1AF95"
+					type: "xp"
+					xp: 1395
+				}
+			]
+			tasks: [
+				{
+					id: "1A66F9CA9C918A7A"
+					item: { components: { "tide:fish_length": 47.5d }, count: 1, id: "tide:amber_rockfish" }
+					type: "item"
+				}
+				{
+					id: "3C5831F11D6C7576"
+					item: { components: { "tide:fish_length": 52.5d }, count: 1, id: "tide:pale_clubfish" }
+					type: "item"
+				}
+				{
+					id: "24F0216CBB1013F1"
+					item: { components: { "tide:fish_length": 45.0d }, count: 1, id: "tide:enderfin" }
+					type: "item"
+				}
+				{
+					id: "5EB73A532976A39D"
+					item: { components: { "tide:fish_length": 3.0d }, count: 1, id: "tide:incandescent_larva" }
+					type: "item"
+				}
+				{
+					id: "6A6DE640264AD03E"
+					item: { components: { "tide:fish_length": 3.75d }, count: 1, id: "tide:bedrock_bug" }
+					type: "item"
+				}
+				{
+					id: "578C453962F80455"
+					item: { components: { "tide:fish_length": 60.0d }, count: 1, id: "tide:sleepy_carp" }
+					type: "item"
+				}
+				{
+					id: "6EBEFBD26D122E17"
+					item: { components: { "tide:fish_length": 65.0d }, count: 1, id: "tide:chorus_cod" }
+					type: "item"
+				}
+				{
+					id: "16AFDB3D90D30F84"
+					item: { components: { "tide:fish_length": 59.0d }, count: 1, id: "tide:ender_glider" }
+					type: "item"
+				}
+				{
+					id: "6B279020BFA6B0BA"
+					item: { components: { "tide:fish_length": 30.0d }, count: 1, id: "tide:endergazer" }
+					type: "item"
+				}
+				{
+					id: "3419CDAD73583CDA"
+					item: { components: { "tide:fish_length": 27.5d }, count: 1, id: "tide:blue_neonfish" }
+					type: "item"
+				}
+				{
+					id: "7D2D2B104D40B69F"
+					item: { components: { "tide:fish_length": 60.0d }, count: 1, id: "tide:judgment_fish" }
+					type: "item"
+				}
+				{
+					id: "1AEE434322C9437A"
+					item: { components: { "tide:fish_length": 51.5d }, count: 1, id: "tide:deep_blue" }
+					type: "item"
+				}
+				{
+					id: "35D0278292095669"
+					item: { components: { "tide:fish_length": 72.5d }, count: 1, id: "tide:violet_carp" }
+					type: "item"
+				}
+			]
+			x: 2.5d
+			y: -7.5d
+		}
+		{
+			id: "560D2F1F42CC9584"
+			rewards: [{
+				id: "3F098B8CA898A66F"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "18F8CC1A18CE29CE"
+				type: "dimension"
+			}]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "01231E0B919B238D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3855F1235F859E2A"
+					table_id: 638505062542817682L
+					type: "loot"
+				}
+				{
+					id: "42B5568DCA1FA259"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				id: "292464047CB93530"
+				item: { count: 1, id: "tide:purpur_crate" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.0d
+		}
+	]
+}

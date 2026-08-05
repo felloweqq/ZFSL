@@ -1,0 +1,35 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    " f ",
+    "gbg",
+    " t "
+  ],
+  "reagents": [
+    "snsn"
+  ],
+  "key": {
+    "g": {
+    	"item": "minecraft:ghast_tear"
+    },
+    "t": {
+    	"item": "eidolon_repraised:athame"
+    },
+    "f": {
+    	"item": "mythsandlegends:fire_heart"
+    },
+    "n": {
+    	"item": "minecraft:netherite_scrap"
+    },
+    "b": {
+    	"item": "minecraft:slimeball"    
+	},
+    "s": {
+    	"item": "irons_spellbooks:blood_vial"
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "relics:sphere_of_self_sacrifice"
+  }
+}

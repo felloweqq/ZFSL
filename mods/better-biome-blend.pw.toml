@@ -1,0 +1,13 @@
+name = "Better Biome Blend"
+filename = "betterbiomeblend-neoforge-1.21.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b182828d9014a85aef975ccd2f3929d029f5585"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8397016
+project-id = 446253

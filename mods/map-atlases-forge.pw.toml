@@ -1,0 +1,13 @@
+name = "Map Atlases [Forge]"
+filename = "map_atlases-neoforge-1.21-6.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3f24eac734179592e0f4e1af9625bcb2726f7f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8137491
+project-id = 519759

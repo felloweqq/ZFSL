@@ -1,0 +1,35 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:spawner"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "royalvariations:royal_gunpowder"
+  },
+  "count2": 16,
+  "ingredient3": {
+    "item": "quark:diamond_heart"
+  },
+  "count3": 1,
+  "result": {
+	"id": "minecraft:spawner",
+    "count": 1,
+    "components": {
+      "minecraft:block_entity_data": {
+        "id": "minecraft:spawner",
+		"MinSpawnDelay": 200,
+        "MaxSpawnDelay": 900,
+		"SpawnRange": 2,
+        "SpawnData": {
+          "entity": {
+			"id": "minecraft:creeper"
+          }
+        }
+      }
+    }
+  },
+  "cost": 910,
+  "processTime": 1200,
+  "id": "minecraft:creeper_spawner_metamorphosis"
+}

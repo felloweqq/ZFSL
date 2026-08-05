@@ -1,0 +1,41 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    "cec",
+    "gwg",
+    "tot"
+  ],
+  "reagents": [
+    "fsfs"
+  ],
+  "key": {
+    "c": {
+    	"item": "eidolon_repraised:enchanted_ash"
+    },
+    "e": {
+    	"item": "royalvariations:royal_ender_pearl"
+    },
+    "g": {
+    	"item": "oritech:gold_dust"
+    },
+    "w": {
+    	"item": "minecraft:wither_skeleton_skull"
+    },
+    "t": {
+    	"item": "minecraft:netherite_upgrade_smithing_template"
+    },
+    "s": {
+    	"item": "quark:soul_bead"
+    },
+    "f": {
+    	"item": "minecraft:fire_charge"
+    },
+    "o": {
+    	"item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+	"count": 2,
+    "id": "minecraft:netherite_scrap"
+  }
+}

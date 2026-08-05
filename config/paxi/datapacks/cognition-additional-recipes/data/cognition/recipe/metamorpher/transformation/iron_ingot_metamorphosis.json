@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:copper_ingot"
+  },
+  "count1": 3,
+  "ingredient2": {
+    "item": "oritech:fluxite"
+  },
+  "count2": 4,
+  "ingredient3": {
+	"item": "cognition:transforming_focus"
+  },
+  "count3": 1,
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 2
+  },
+  "cost": 16,
+  "processTime": 80,
+  "id": "cognition:iron_ingot_metamorphosis"
+}

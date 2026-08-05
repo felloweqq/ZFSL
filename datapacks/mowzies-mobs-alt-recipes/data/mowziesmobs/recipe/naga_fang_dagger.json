@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": {
+      "item": "mowziesmobs:naga_fang"
+    },
+    "I": {
+      "item": "oritech:iron_dust"
+    },
+    "B": {
+      "item": "minecraft:bone"
+	},
+	"M": {
+	  "item": "minecraft:phantom_membrane"
+    }
+  },
+  "pattern": [
+    " IB",
+    "IM ",
+    "F  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mowziesmobs:naga_fang_dagger"
+  }
+}

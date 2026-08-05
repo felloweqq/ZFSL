@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "CAC"
+  ],
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "A": {
+      "item": "oritech:adamant_ingot"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wizard_boots",
+    "count": 1
+  }
+}

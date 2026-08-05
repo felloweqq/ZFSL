@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "rusticdelight:cotton_boll"
+  },
+  "count1": 8,
+  "ingredient2": {
+    "item": "minecraft:torchflower"
+  },
+  "count2": 3,
+  "ingredient3": {
+    "item": "minecraft:rabbit_foot"
+  },
+  "count3": 2,
+  "result": {
+    "id": "artifacts:lucky_scarf",
+    "count": 1
+  },
+  "cost": 1395,
+  "processTime": 3600,
+  "id": "cognition:lucky_scarf_metamorphosis"
+}

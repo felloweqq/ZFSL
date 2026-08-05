@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "ACA",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "A": {
+      "item": "oritech:adamant_ingot"
+	},
+    "L": {
+      "item": "eidolon_repraised:lesser_soul_gem"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wizard_chestplate",
+    "count": 1
+  }
+}

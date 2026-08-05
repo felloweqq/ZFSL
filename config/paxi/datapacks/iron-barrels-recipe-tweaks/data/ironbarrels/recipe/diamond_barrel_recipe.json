@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "cac",
+    "aba",
+    "cac"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "ironbarrels:gold_barrel"
+    },
+    "c": {
+      "item": "oritech:electrum_ingot"
+    }
+  },
+  "result": {
+    "id": "ironbarrels:diamond_barrel",
+    "count": 1
+  }
+}

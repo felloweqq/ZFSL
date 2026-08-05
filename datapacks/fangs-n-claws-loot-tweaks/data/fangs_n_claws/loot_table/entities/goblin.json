@@ -1,0 +1,122 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_nugget",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "type": "minecraft:uniform", "min": 0, "max": 6 }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "type": "minecraft:uniform", "min": 0, "max": 6 }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oritech:copper_nugget",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "type": "minecraft:uniform", "min": 0, "max": 6 }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "eidolon_repraised:silver_nugget",
+          "weight": 4,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "type": "minecraft:uniform", "min": 0, "max": 6 }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "eidolon_repraised:arcane_gold_nugget",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": { "type": "minecraft:uniform", "min": 0, "max": 6 }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:bundle",
+          "weight": 3,
+          "functions": [
+            {
+              "function": "minecraft:set_contents",
+              "component": "minecraft:bundle_contents",
+              "entries": [
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:iron_nugget",
+                  "weight": 1,
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": { "type": "minecraft:uniform", "min": 0, "max": 18 }
+                    }
+                  ]
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "minecraft:gold_nugget",
+                  "weight": 2,
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": { "type": "minecraft:uniform", "min": 2, "max": 24 }
+                    }
+                  ]
+                },
+                {
+                  "type": "minecraft:item",
+                  "name": "oritech:copper_nugget",
+                  "weight": 1,
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": { "type": "minecraft:uniform", "min": 1, "max": 32 }
+					}
+				  ]
+                },
+				{
+                  "type": "minecraft:item",
+                  "name": "chickensaurs:chickensaur_nuggets",
+                  "weight": 2,
+                  "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": { "type": "minecraft:uniform", "min": 2, "max": 5 }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

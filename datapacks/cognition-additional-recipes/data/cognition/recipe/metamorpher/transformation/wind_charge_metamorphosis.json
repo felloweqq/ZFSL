@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:feather"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "cognition:transforming_focus"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "minecraft:fire_charge"
+  },
+  "count3": 1,
+  "result": {
+    "id": "minecraft:wind_charge",
+    "count": 1
+  },
+  "cost": 40,
+  "processTime": 1,
+  "id": "cognition:wind_charge_metamorphosis"
+}

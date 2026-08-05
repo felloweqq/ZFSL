@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "F": {
+      "item": "irons_restrictions:fragment"
+    },
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "E": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+    "I": {
+      "item": "eidolon_repraised:magic_ink"
+  },
+  "pattern": [
+    "CFC",
+    "EIE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "irons_restrictions:unfinished_manuscript"
+  }
+}

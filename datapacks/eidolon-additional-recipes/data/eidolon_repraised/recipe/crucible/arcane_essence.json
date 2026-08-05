@@ -1,0 +1,24 @@
+{
+  "type": "eidolon_repraised:crucible",
+  "steps": [
+    {
+      "items": [
+        { "item": "eidolon_repraised:ender_calx" },
+        { "item": "eidolon_repraised:raven_feather" },
+        { "item": "cognition:mending_neurogel_blob" }
+      ]
+    },
+    {
+      "stirs": 3
+    },
+    {
+      "items": [
+        { "item": "eidolon_repraised:death_essence" }
+      ]
+    }
+  ],
+  "result": {
+    "id": "irons_spellbooks:arcane_essence",
+    "count": 4
+  }
+}

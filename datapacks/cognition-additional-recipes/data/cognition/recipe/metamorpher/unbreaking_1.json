@@ -1,0 +1,29 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:book"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "cognition:mending_neurogel_blob"
+  },
+  "count2": 4,
+  "ingredient3": {
+    "item": "minecraft:iron_block"
+  },
+  "count3": 1,
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:unbreaking": 1
+        }
+      }
+    }
+  },
+  "cost": 315,
+  "processTime": 600,
+  "id": "cognition:unbreaking_1_metamorphosis"
+}

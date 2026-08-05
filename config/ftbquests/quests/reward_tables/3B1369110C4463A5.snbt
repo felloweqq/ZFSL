@@ -1,0 +1,9 @@
+{
+	id: "3B1369110C4463A5"
+	loot_size: 1
+	order_index: 19
+	rewards: [
+		{ id: "242938B86F49174A", item: { components: { "relics:data": { abilities: { abilities: { jump: { lock: { breaks: 5 }, points: 0, stats: { count: { initialQuality: 5 }, slow_fall_duration: { initialQuality: 5 }, updraft_bonus: { initialQuality: 5 } } } }, synergies: { } }, leveling: { }, statistic: { metrics: { retention_time: { value: 235.0d } } } } }, count: 1, id: "artifacts:cloud_in_a_bottle" } }
+		{ id: "1E8D1BCE259A2A36", item: { components: { "relics:data": { abilities: { abilities: { camouflage: { lock: { breaks: 5 }, points: 0, stats: { absorption: { initialQuality: 7 }, cooldown: { initialQuality: 6 }, heal: { initialQuality: 4 } } }, revival: { lock: { breaks: 0 }, points: 0, stats: { damage: { initialQuality: 8 }, heal: { initialQuality: 1 }, paralysis: { initialQuality: 6 }, radius: { initialQuality: 7 } } } }, synergies: { } }, leveling: { }, statistic: { metrics: { retention_time: { value: 348.0d } } } } }, count: 1, id: "relics:leafy_mantle" } }
+	]
+}

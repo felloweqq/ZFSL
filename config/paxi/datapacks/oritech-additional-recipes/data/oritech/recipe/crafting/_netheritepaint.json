@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "oritech:carbon_fibre_strands"
+    },
+    "p": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "s": {
+      "item": "supplementaries:antique_ink"
+    }
+  },
+  "pattern": [
+    " b ",
+    "psp",
+    " b "
+  ],
+  "result": {
+    "count": 4,
+    "id": "oritech:netherite_paint"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "hungrywaters:piranha_raw"
+  },
+  "count1": 3,
+  "ingredient2": {
+    "item": "supplementaries:antique_ink"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "minecraft:gold_nugget"
+  },
+  "count3": 8,
+  "result": {
+    "id": "artifacts:golden_hook",
+    "count": 1
+  },
+  "cost": 550,
+  "processTime": 3600,
+  "id": "cognition:golden_hook_metamorphosis"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C C",
+    "HCH",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "H": {
+      "item": "oritech:biosteel_ingot"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:pumpkin_chestplate",
+    "count": 1
+  }
+}

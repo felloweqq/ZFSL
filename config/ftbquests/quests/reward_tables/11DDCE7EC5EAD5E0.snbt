@@ -1,0 +1,73 @@
+{
+	id: "11DDCE7EC5EAD5E0"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			count: 32
+			id: "7F6C1E10E0E4B372"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 64
+			id: "517883D4ED8B3145"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 28
+			id: "634A1984A13EBBE4"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 28
+			id: "147D3CC2B1333941"
+			item: {
+				count: 1
+				id: "oritech:nickel_ingot"
+			}
+		}
+		{
+			auto: "enabled"
+			count: 6
+			id: "3464FED3110C7AD2"
+			item: {
+				count: 1
+				id: "oritech:platinum_ingot"
+			}
+		}
+		{
+			count: 4
+			id: "0F4A8FD238396043"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{ id: "5739D1ED3CC33EBD", item: { count: 1, id: "minecraft:diamond" } }
+		{
+			count: 48
+			id: "08A97EA678EE477C"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 64
+			id: "15EDF14B48A808AA"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+	]
+}

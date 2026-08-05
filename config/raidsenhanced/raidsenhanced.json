@@ -1,0 +1,16 @@
+{
+  "zapperStaffBallLightningDamage": 4.5,
+  "zapperStaffLightningDamage": 20.0,
+  "zapperStaffLightningUseCooldown": 80,
+  "zapperStaffBallLightningUseCooldown": 12.5,
+  "handcannonBombDamage": 20.0,
+  "handcannonUseCooldown": 80,
+  "raidDrill": {
+    "minRaidersSpawn": 3,
+    "maxRaidersSpawn": 5,
+    "_comment_burrowAgainAfter": "If raider drill is not touched after it spawns illagers it burrows again after this time (in ticks)",
+    "burrowAgainAfter": 240,
+    "_comment_automaticBurrowTimes": "This is to prevent it infinitely burrowing and spawning illagers.",
+    "automaticBurrowTimes": 5
+  }
+}

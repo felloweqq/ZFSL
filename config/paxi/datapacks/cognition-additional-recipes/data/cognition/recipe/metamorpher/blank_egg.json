@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:sniffer_egg"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "eidolon_repraised:quicken_incense"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "quark:dragon_scale"
+  },
+  "count3": 1,
+  "result": {
+    "id": "dmr:blank_egg",
+    "count": 1
+  },
+  "cost": 8670,
+  "processTime": 36000,
+  "id": "cognition:blank_egg_metamorphosis"
+}

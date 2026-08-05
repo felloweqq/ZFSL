@@ -1,0 +1,13 @@
+name = "TerraBiomes Music"
+filename = "TerraBiomes 1.1.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "28f1cf69b7cabd62c29565d6af671eb487b28d2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6985333
+project-id = 1344951

@@ -1,0 +1,21 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "minecraft:ink_sac"
+    },
+    {
+      "item": "oritech:fluxite"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "minecraft:map"
+    }
+  ],
+  "time": 40
+}

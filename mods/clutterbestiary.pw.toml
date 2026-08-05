@@ -1,0 +1,13 @@
+name = "Clutter: Bestiary"
+filename = "clutterbestiary-1.1.2-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a05bee7a5b8424436045e56899aa63c6fb398c0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7444148
+project-id = 1333495

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "tempad:chronon_cell"
+    },
+    "E": {
+      "tag": "c:ender_pearls"
+    },
+    "I": {
+      "tag": "c:storage_blocks/steel"
+    },
+    "c": {
+      "item": "refinedstorage:quartz_enriched_copper"
+    },
+    "g": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "pattern": [
+    "cc ",
+    "gEC",
+    "III"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tempad:timedoor_projector"
+  }
+}

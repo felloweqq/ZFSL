@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    {
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "item": "minecraft:crying_obsidian"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "artifacts:obsidian_skull"
+    }
+  ],
+  "time": 3600
+}

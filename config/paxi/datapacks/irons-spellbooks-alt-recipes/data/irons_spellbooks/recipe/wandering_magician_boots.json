@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ALA"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather_boots"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wandering_magician_boots"
+  }
+}

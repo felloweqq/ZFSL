@@ -1,0 +1,22 @@
+{
+	id: "259D327D7A5FB86D"
+	loot_size: 1
+	order_index: 0
+	rewards: [
+		{ id: "10F6947D45BD34B9", item: { count: 1, id: "sticknstone:wooden_longsword" } }
+		{ id: "63D0D44F36A2B07C", item: { count: 1, id: "sticknstone:wooden_twinblade" } }
+		{ id: "03BD3C643CD0C15F", item: { count: 1, id: "sticknstone:wooden_rapier" } }
+		{ id: "4C98EFB11543BF3B", item: { count: 1, id: "sticknstone:wooden_katana" } }
+		{ id: "508BEFDC764623EC", item: { count: 1, id: "sticknstone:wooden_sai" } }
+		{ id: "60867AD3B250982F", item: { count: 1, id: "sticknstone:wooden_spear" } }
+		{ id: "438DA25B63D0D16E", item: { count: 1, id: "sticknstone:wooden_glaive" } }
+		{ id: "5FBADD9122F89BE1", item: { count: 1, id: "sticknstone:wooden_warglaive" } }
+		{ id: "4F02468565A2AE56", item: { count: 1, id: "sticknstone:wooden_cutlass" } }
+		{ id: "5D350738563A6074", item: { count: 1, id: "sticknstone:wooden_claymore" } }
+		{ id: "76FD0B24414454A6", item: { count: 1, id: "sticknstone:wooden_greathammer" } }
+		{ id: "6D0E5F5E4BB0928D", item: { count: 1, id: "sticknstone:wooden_greataxe" } }
+		{ id: "520A30BED8EC6894", item: { count: 1, id: "sticknstone:wooden_chakram" } }
+		{ id: "636542CC2EE1B50A", item: { count: 1, id: "sticknstone:wooden_scythe" } }
+		{ id: "122AC99A988E0A06", item: { count: 1, id: "sticknstone:wooden_halberd" } }
+	]
+}

@@ -1,0 +1,383 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "hexagon"
+	default_quest_size: 1.4d
+	filename: "liniowe_osigi"
+	group: ""
+	id: "1A65771DC3681B35"
+	images: [ ]
+	order_index: 11
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2F84A136E3A41952"
+			rewards: [{
+				id: "468C9C34ADC04931"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				id: "797E186230F5386B"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 100
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "4BF5C23F58C048B7"
+			rewards: [{
+				id: "38C60E4FD7170AD7"
+				type: "xp"
+				xp: 1395
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:item/diamond_sword"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "3D303C67E1232693"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 1000
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "3E0F7DBC3682191C"
+			rewards: [{
+				id: "578B6C1ABC7D587C"
+				type: "xp"
+				xp: 8670
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:item/netherite_sword"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "134FC20FAB2853E1"
+				stat: "minecraft:mob_kills"
+				type: "stat"
+				value: 10000
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "5973DAA8CBAE5544"
+			rewards: [{
+				id: "47FB497271D7D000"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:chicken"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "7F6C77DB873F7529"
+				stat: "minecraft:animals_bred"
+				type: "stat"
+				value: 20
+			}]
+			x: 4.5d
+			y: -0.5d
+		}
+		{
+			id: "052E27C70F3F3CE8"
+			rewards: [{
+				id: "0DF6A86A4DD37ACC"
+				type: "xp"
+				xp: 1395
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:pig"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2E1F5A6D87154A71"
+				stat: "minecraft:animals_bred"
+				type: "stat"
+				value: 125
+			}]
+			x: 4.5d
+			y: 2.0d
+		}
+		{
+			id: "549A4EB0DBBE3B93"
+			rewards: [{
+				id: "0EBCDE86E41A876F"
+				type: "xp"
+				xp: 8670
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:cow"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "52398A6315D3497C"
+				stat: "minecraft:animals_bred"
+				type: "stat"
+				value: 1000
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "74B0F601DEE626C5"
+			rewards: [{
+				id: "246A0EC159C1E2F3"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_16"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "087747CA9D1518BB"
+					stat: "minecraft:sprint_one_cm"
+					type: "stat"
+					value: 500000
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_17"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "72FEC7D6882A58FB"
+					stat: "minecraft:walk_one_cm"
+					type: "stat"
+					value: 100000
+				}
+			]
+			x: -4.5d
+			y: -0.5d
+		}
+		{
+			id: "2504508DA0476C33"
+			rewards: [{
+				id: "3E37FD3C405B8E7B"
+				type: "xp"
+				xp: 1395
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_18"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "5E2382C21327E142"
+					stat: "minecraft:sprint_one_cm"
+					type: "stat"
+					value: 2500000
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_19"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "48BDF1CCC95B25AF"
+					stat: "minecraft:walk_one_cm"
+					type: "stat"
+					value: 500000
+				}
+			]
+			x: -4.5d
+			y: 2.0d
+		}
+		{
+			id: "7060778F63122957"
+			rewards: [{
+				id: "1309455F2B90FA6A"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/poisoned_half.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "56FC730600F79BBF"
+				stat: "minecraft:time_since_death"
+				type: "stat"
+				value: 72000
+			}]
+			x: 9.0d
+			y: -0.5d
+		}
+		{
+			id: "7B74946F47392EFD"
+			rewards: [{
+				id: "384F0D9F91681F90"
+				type: "xp"
+				xp: 160
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:item/emerald"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1E58416B430C0003"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 15
+			}]
+			x: 13.5d
+			y: -0.5d
+		}
+		{
+			id: "31DEED558309B910"
+			rewards: [{
+				id: "7AAE1D71CA0028E7"
+				type: "xp"
+				xp: 8670
+			}]
+			tasks: [
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_19"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "2B284CE66992A9D4"
+					stat: "minecraft:sprint_one_cm"
+					type: "stat"
+					value: 10000000
+				}
+				{
+					icon: {
+						components: {
+							"ftbquests:icon": "piglinproliferation:item/travelers_compass_22"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "43A6ABAC0A3BB408"
+					stat: "minecraft:walk_one_cm"
+					type: "stat"
+					value: 2000000
+				}
+			]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			id: "702A81C31FAE8689"
+			rewards: [{
+				id: "7B43F4ED2CE4587D"
+				type: "xp"
+				xp: 1395
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/poisoned_full.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "11DDFBF8E88A22C6"
+				stat: "minecraft:time_since_death"
+				type: "stat"
+				value: 336000
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			id: "029A7FD24BE04401"
+			rewards: [{
+				id: "73290A594B446B8F"
+				type: "xp"
+				xp: 8670
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:textures/gui/sprites/hud/heart/poisoned_hardcore_full.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "0536A44AC492F394"
+				stat: "minecraft:time_since_death"
+				type: "stat"
+				value: 1008000
+			}]
+			x: 9.0d
+			y: 4.5d
+		}
+		{
+			id: "71BF4880B072069E"
+			rewards: [{
+				id: "3601BF8D9602BB52"
+				type: "xp"
+				xp: 1395
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"ftbquests:icon": "minecraft:block/emerald_block"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "375815E547BA7E99"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 80
+			}]
+			x: 13.5d
+			y: 2.0d
+		}
+		{
+			id: "0C909DDD8A3A91DB"
+			rewards: [{
+				id: "29F5B6941ABA5326"
+				type: "xp"
+				xp: 8670
+			}]
+			tasks: [{
+				icon: {
+					components: {
+						"!ftbquests:icon": { }
+						"ftbquests:entity_face": "minecraft:wandering_trader"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2EDE620D3F60CE23"
+				stat: "minecraft:traded_with_villager"
+				type: "stat"
+				value: 300
+			}]
+			x: 13.5d
+			y: 4.5d
+		}
+	]
+}

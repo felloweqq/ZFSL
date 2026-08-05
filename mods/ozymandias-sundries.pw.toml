@@ -1,0 +1,13 @@
+name = "Ozymandias' Sundries"
+filename = "ozymandias_sundries-0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b973622ed90f47108aba481fec3beb19b432d853"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6978561
+project-id = 1209674

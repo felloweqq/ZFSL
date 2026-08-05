@@ -1,0 +1,13 @@
+name = "Forgetful Sniffer"
+filename = "forgetful-sniffer-v1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b4c7400fdec07ab42e5e67afae958a255d5550cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7035060
+project-id = 1225574

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+	"A A",
+    "GLG",
+	"A A"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather_chestplate"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+	},
+    "G": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wandering_magician_chestplate"
+  }
+}

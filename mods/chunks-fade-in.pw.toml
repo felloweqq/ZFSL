@@ -1,0 +1,13 @@
+name = "Chunks fade in"
+filename = "chunksfadein-neoforge-3.0.25-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "636721281273905958b408f0452dae9863ab4d1b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8434507
+project-id = 720811

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:diamond"
+  },
+  "base": {
+    "item": "ironbarrels:diamond_to_obsidian_barrel_upgrade"
+  },
+  "addition": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "result": {
+    "id": "ironbarrels:obsidian_to_netherite_barrel_upgrade"
+  }
+}

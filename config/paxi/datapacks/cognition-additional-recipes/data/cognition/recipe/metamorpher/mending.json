@@ -1,0 +1,29 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:book"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "cognition:mending_neurogel"
+  },
+  "count2": 6,
+  "ingredient3": {
+    "item": "quark:ancient_fruit"
+  },
+  "count3": 12,
+  "result": {
+    "id": "minecraft:enchanted_book",
+    "count": 1,
+    "components": {
+      "minecraft:stored_enchantments": {
+        "levels": {
+          "minecraft:mending": 1
+        }
+      }
+    }
+  },
+  "cost": 550,
+  "processTime": 1200,
+  "id": "cognition:mending_metamorphosis"
+}

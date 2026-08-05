@@ -1,0 +1,13 @@
+name = "Good Ending"
+filename = "GoodEnding-1.21.1-1.1.1-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "66db0dfc874ca396befa60d8d315430e2997d65c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8434874
+project-id = 690161

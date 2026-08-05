@@ -1,0 +1,516 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "walki_uli"
+	group: ""
+	id: "57AE4ECB6307EA55"
+	images: [ ]
+	order_index: 10
+	quest_links: [ ]
+	quests: [
+		{
+			id: "752E8BD2AE542765"
+			tasks: [
+				{
+					entity: "irons_spellbooks:cryomancer"
+					icon: {
+						components: {
+							"cold_sweat:armor_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "irons_spellbooks:cryomancer_helmet"
+					}
+					id: "264EF5F4CAD2C010"
+					type: "kill"
+					value: 1L
+				}
+				{
+					entity: "irons_spellbooks:pyromancer"
+					icon: {
+						components: {
+							"cold_sweat:armor_insulation": {
+								insulation: [ ]
+							}
+						}
+						id: "irons_spellbooks:pyromancer_helmet"
+					}
+					id: "777753A3457C66CA"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -5.0d
+			y: -4.0d
+		}
+		{
+			id: "2527BB941B9A0DC3"
+			tasks: [{
+				entity: "wind_spellbooks:aeromancer"
+				icon: {
+					components: {
+						"cold_sweat:armor_insulation": {
+							insulation: [ ]
+						}
+					}
+					id: "wind_spellbooks:aeromancer_helmet"
+				}
+				id: "009340D351A8E980"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -4.0d
+		}
+		{
+			id: "4FD0830D5C806DCA"
+			tasks: [{
+				entity: "irons_spellbooks:archevoker"
+				icon: {
+					components: {
+						"cold_sweat:armor_insulation": {
+							insulation: [ ]
+						}
+					}
+					id: "irons_spellbooks:archevoker_helmet"
+				}
+				id: "208C1A7BA04CC174"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "11A83090F710991E"
+			tasks: [{
+				entity: "irons_spellbooks:citadel_keeper"
+				id: "07B973E449298DB2"
+				type: "kill"
+				value: 1L
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "6C8C697E9EB69E67"
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				id: "6E7B909BBADA292A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 2.5d
+			y: -4.0d
+		}
+		{
+			id: "5E645B9B6BFB735B"
+			tasks: [{
+				entity: "irons_spellbooks:fire_boss"
+				id: "519637CA129D275A"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			id: "1E2C55B10A608D2A"
+			tasks: [{
+				entity: "darkdoppelganger:dark_doppelganger"
+				id: "075D52DBB9280B35"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.5d
+			y: -4.0d
+		}
+		{
+			id: "140DA3F66DCDF55D"
+			tasks: [
+				{
+					id: "06550CD1219DF26D"
+					item: { count: 1, id: "fdbosses:eye_of_chesed" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "fdbosses:chesed"
+					icon: {
+						components: {
+							"ftbquests:icon": "fdbosses:item/lightning_core"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "141C1B17E8A73C6D"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			id: "51E74BD1E182F672"
+			tasks: [
+				{
+					id: "13855C0A164A5835"
+					item: { count: 1, id: "fdbosses:eye_of_malkuth" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "fdbosses:malkuth"
+					icon: {
+						components: {
+							"ftbquests:icon": "fdbosses:item/fire_and_ice_core"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "209517BDC75153A9"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			id: "6136A5CA512FD5CC"
+			tasks: [
+				{
+					id: "66C1F21B36BE5D08"
+					item: { count: 1, id: "fdbosses:eye_of_geburah" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "fdbosses:geburah"
+					icon: {
+						components: {
+							"ftbquests:icon": "fdbosses:item/justice_core"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "1EC89082C4C43D21"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			id: "257B7B1DACBC55D6"
+			tasks: [
+				{
+					id: "2EB9CCE037FEC3C9"
+					item: { count: 1, id: "cataclysm:monstrous_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:netherite_monstrosity"
+					icon: {
+						components: {
+							"ftbquests:icon": "cataclysm:item/netherite_effigy"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "56E4BEAFA41044FB"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "4ACB457A850274DA"
+			tasks: [
+				{
+					id: "2ADA9B73A9344E4D"
+					item: { count: 1, id: "cataclysm:mech_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:the_harbinger"
+					icon: {
+						id: "cataclysm:mechanical_fusion_anvil"
+					}
+					id: "5D650615D4024D5C"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "1E8D6F4FD5008208"
+			tasks: [
+				{
+					id: "0A1C26FF9D828B0E"
+					item: { count: 1, id: "cataclysm:void_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:ender_guardian"
+					icon: {
+						components: {
+							"ftbquests:icon": "lendersdelight:item/ender_guardian_crystal"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "061DAA64F28B4ABB"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -3.5d
+			y: 0.0d
+		}
+		{
+			id: "603D04D3E0DFFE39"
+			tasks: [
+				{
+					id: "230285355C1DA62C"
+					item: { count: 1, id: "cataclysm:storm_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:scylla"
+					icon: {
+						components: {
+							"ftbquests:icon": "lendersdelight:item/scylla_snake"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "187236EDA5463DC8"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "3FCBB86B8643A5E1"
+			tasks: [
+				{
+					id: "230D6A8B8C357DAD"
+					item: { count: 1, id: "cataclysm:desert_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:ancient_remnant"
+					icon: {
+						components: {
+							"ftbquests:icon": "cataclysm:textures/mob_effect/curse_of_desert.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "1CA6D57970DC69D9"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: -0.5d
+			y: 0.0d
+		}
+		{
+			id: "767EF1C85B362FA2"
+			tasks: [
+				{
+					id: "3ACB167A423DB12E"
+					item: { count: 1, id: "cataclysm:abyss_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:the_leviathan"
+					icon: {
+						components: {
+							"ftbquests:icon": "cataclysm:item/abyssal_sacrifice"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "02CB1821B0231BB1"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "1A96EB7F70EF612A"
+			tasks: [
+				{
+					id: "3BC51831BC0C698E"
+					item: { count: 1, id: "cataclysm:cursed_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:maledictus"
+					icon: {
+						components: {
+							"ftbquests:icon": "lendersdelight:item/maledictus_heart"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "0D3A1F628FD62EC7"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			id: "06B0C0B9437BDE77"
+			tasks: [
+				{
+					id: "0E25F83EF715E690"
+					item: { count: 1, id: "cataclysm:flame_eye" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					entity: "cataclysm:ignis"
+					icon: {
+						components: {
+							"ftbquests:icon": "cataclysm:textures/mob_effect/blazing_brand.png"
+						}
+						id: "ftbquests:custom_icon"
+					}
+					id: "77542DD8F3CFC806"
+					type: "kill"
+					value: 1L
+				}
+			]
+			x: 5.5d
+			y: 0.0d
+		}
+		{
+			id: "432FC5619106E22B"
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: {
+					components: {
+						"ftbquests:icon": "mowziesmobs:item/wrought_helmet_icon"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "278A8E3DD403DC20"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: -6.0d
+		}
+		{
+			id: "60293CEB5D84C982"
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					components: {
+						"ftbquests:icon": "mowziesmobs:item/frostmaw_plushie"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "531FDD362614551A"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -6.0d
+		}
+		{
+			id: "4689D2DE28D903BA"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: {
+					components: {
+						"ftbquests:icon": "mowziesmobs:item/sol_visage"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "1BF305E6038F0810"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: -6.0d
+		}
+		{
+			id: "2733C886B23E63B6"
+			rewards: [{
+				id: "67ABE4683E8F2F5A"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				entity: "raidsenhanced:raid_drill"
+				id: "53BAF2C69C9152AF"
+				type: "kill"
+				value: 1L
+			}]
+			x: -5.0d
+			y: 2.0d
+		}
+		{
+			id: "0260C72E8418AE57"
+			rewards: [{
+				id: "153034725F7A0858"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				entity: "raidsenhanced:golem_of_last_resort"
+				id: "0DEE0230F2A1B080"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: 2.0d
+		}
+		{
+			id: "52D938237AF8AF06"
+			rewards: [{
+				id: "41601BABA646BCF9"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				entity: "raidsenhanced:zapper"
+				id: "21DA9FAD9E200DCD"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			id: "263308432915424B"
+			rewards: [{
+				id: "5D0DA9CDB933660E"
+				type: "xp"
+				xp: 600
+			}]
+			tasks: [{
+				entity: "raidsenhanced:raid_blimp"
+				id: "23AE3E71785219C3"
+				type: "kill"
+				value: 1L
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+	]
+}

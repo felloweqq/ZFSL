@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "elevator",
+  "pattern": [
+    "EEE",
+    "IMI",
+    "CDC"
+  ],
+  "key": {
+    "E": {
+      "item": "oritech:electrum_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "M": {
+      "item": "oritech:motor"
+    },
+    "C": {
+      "item": "eidolon_repraised:ender_calx"
+    },
+    "D": {
+      "item": "minecraft:light_blue_dye"
+    }
+  },
+  "result": {
+    "id": "elevatorid:elevator_light_blue"
+  }
+}
+

@@ -1,0 +1,35 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    "g g",
+    "rmr",
+    "s s"
+  ],
+  "reagents": [
+    "cqqq"
+  ],
+  "key": {
+    "m": {
+    	"item": "eidolon_repraised:zombie_heart"
+    },
+    "g": {
+    	"item": "minecraft:armadillo_scute"
+    },
+    "r": {
+    	"item": "primal:crocodile_scute"
+    },
+    "s": {
+    	"item": "nomansland:sturdy_scute"
+    },
+    "c": {
+    	"item": "eidolon_repraised:crimson_gem"    
+    },
+    "q": {
+    	"item": "refinedstorage:quartz_enriched_iron"
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "artifacts:crystal_heart"
+  }
+}

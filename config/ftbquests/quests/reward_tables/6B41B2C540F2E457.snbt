@@ -1,0 +1,9 @@
+{
+	id: "6B41B2C540F2E457"
+	loot_size: 1
+	order_index: 17
+	rewards: [
+		{ id: "497341AA18D60B28", item: { components: { "minecraft:potion_contents": { potion: "cold_sweat:ice_resistance" } }, count: 1, id: "nirvana:potion_bong" } }
+		{ id: "26955B3B77AC26B2", item: { components: { "minecraft:potion_contents": { potion: "minecraft:fire_resistance" } }, count: 1, id: "nirvana:potion_bong" } }
+	]
+}

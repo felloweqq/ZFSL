@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "NWN",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:cinder_essence"
+    },
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "W": {
+      "item": "eidolon_repraised:warlock_hat"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:cinderous_soulcaller",
+    "count": 1
+  }
+}

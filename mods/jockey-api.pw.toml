@@ -1,0 +1,13 @@
+name = "Jockey API"
+filename = "jockey-api-1.0.0-neoforge-1.21-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9473e3851f8607f589e377fa8469fa228702ac61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6871560
+project-id = 1323304

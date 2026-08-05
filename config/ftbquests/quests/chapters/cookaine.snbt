@@ -1,0 +1,690 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cookaine"
+	group: ""
+	id: "55153E1C2E4328FE"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "472B81C725D5CEDD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "3DD044E63AEFA745"
+					table_id: 4381546058069320023L
+					type: "loot"
+				}
+				{
+					id: "17FE68523D0AE5EA"
+					type: "xp"
+					xp: 20
+				}
+			]
+			tasks: [
+				{
+					id: "476698519F0FF445"
+					item: { count: 1, id: "farmersdelight:stove" }
+					type: "item"
+				}
+				{
+					id: "0DCF6BF3098D6104"
+					item: { count: 1, id: "farmersdelight:cooking_pot" }
+					type: "item"
+				}
+			]
+			x: -14.0d
+			y: 1.0d
+		}
+		{
+			id: "0EDC4AC8C35C384D"
+			rewards: [{
+				id: "3E1D96F201611A11"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "6D353359BAA86FBC"
+				item: { count: 1, id: "farmersdelight:cutting_board" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 1.0d
+		}
+		{
+			id: "723B79879D294BF5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E401F58E315FC5F"
+				table_id: 1908087000246826769L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "063309154FE7C5BD"
+				item: { count: 1, id: "farmersdelight:skillet" }
+				type: "item"
+			}]
+			x: -8.0d
+			y: 1.0d
+		}
+		{
+			id: "6678DBE15F8C02EB"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1AF8D7FF393BF5D1"
+				table_id: 7717483006099810135L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "787C55B6DE378492"
+				item: { count: 1, id: "brewinandchewin:keg" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "611F7F824BEB4F94"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7A74E90B952CCB23"
+					table_id: 4381546058069320023L
+					type: "loot"
+				}
+				{
+					id: "74447B793B79B64C"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [{
+				advancement: "brewinandchewin:main/place_temperature_block_near_keg"
+				criterion: ""
+				id: "3053107630CDA171"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "4D7F48748DDCFD93"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "7F755B2BB9893E98"
+					table_id: 8585514368098974498L
+					type: "choice"
+				}
+				{
+					id: "6F227E0C787E7230"
+					item: {
+						components: {
+							"relics:data": {
+								abilities: {
+									abilities: {
+										drinking: {
+											lock: {
+												breaks: 5
+											}
+											points: 0
+											stats: {
+												air: {
+													initialQuality: 10
+												}
+												health: {
+													initialQuality: 10
+												}
+												hunger: {
+													initialQuality: 10
+												}
+												speed: {
+													initialQuality: 10
+												}
+											}
+										}
+									}
+									synergies: { }
+								}
+								leveling: {
+									rank: 3
+								}
+								statistic: {
+									metrics: {
+										retention_time: {
+											value: 24.0d
+										}
+									}
+								}
+							}
+						}
+						count: 1
+						id: "artifacts:novelty_drinking_hat"
+					}
+					type: "item"
+				}
+				{
+					id: "29D4362BDC565306"
+					type: "xp"
+					xp: 1395
+				}
+			]
+			tasks: [{
+				advancement: "brewinandchewin:main/crafting_problem"
+				criterion: ""
+				id: "3540639423EDC3A4"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "00EE5AD5D987CB11"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "42BB00244891CF12"
+					table_id: 638505062542817682L
+					type: "loot"
+				}
+				{
+					id: "48C8261212630613"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				id: "728875145DBCD4CE"
+				item: { count: 1, id: "brewinandchewin:withering_dross" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "29C54E3640CC64D4"
+			rewards: [{
+				id: "3F24B79A8577AB69"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [
+				{
+					id: "77E0BE7799B59564"
+					item: { count: 1, id: "rusticdelight:bell_pepper_green" }
+					type: "item"
+				}
+				{
+					id: "24F7927234C4CCD3"
+					item: { count: 1, id: "rusticdelight:bell_pepper_yellow" }
+					type: "item"
+				}
+				{
+					id: "783FF063F3BA474F"
+					item: { count: 1, id: "rusticdelight:bell_pepper_red" }
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -0.5d
+		}
+		{
+			id: "3D2FD350DA0589CB"
+			rewards: [{
+				id: "5F51BAF84CF7DC90"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "4D4F97E4830D07A7"
+				item: { count: 1, id: "rusticdelight:syrup" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			id: "0C8707BD97091189"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5F27C3A7FF4799BC"
+					table_id: 638505062542817682L
+					type: "loot"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0BF4111625F6ABE9"
+					table_id: 8585514368098974498L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				count: 64L
+				id: "5EB1E3743638C684"
+				item: { count: 1, id: "rusticdelight:coffee" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -5.0d
+		}
+		{
+			id: "4262DAEB36955209"
+			rewards: [{
+				id: "5EA98FCFDD669D86"
+				type: "xp"
+				xp: 40
+			}]
+			tasks: [{
+				id: "27BE8F9895203CA7"
+				item: { count: 1, id: "rusticdelight:cherry_blossom_pancakes" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			id: "1CB725E712AA63BC"
+			rewards: [
+				{
+					id: "5BBF4A935D2D2A5A"
+					item: {
+						components: {
+							"relics:data": {
+								abilities: {
+									abilities: {
+										reflection: {
+											lock: {
+												breaks: 5
+											}
+											points: 0
+											stats: {
+												bounces: {
+													initialQuality: 10
+												}
+												chance: {
+													initialQuality: 10
+												}
+												damage: {
+													initialQuality: 10
+												}
+												lifetime: {
+													initialQuality: 10
+												}
+												piercings: {
+													initialQuality: 10
+												}
+												stun: {
+													initialQuality: 10
+												}
+											}
+										}
+									}
+									synergies: { }
+								}
+								leveling: { }
+								statistic: {
+									metrics: {
+										retention_time: {
+											value: 43.0d
+										}
+									}
+								}
+							}
+						}
+						count: 1
+						id: "relics:reflective_necklace"
+					}
+					type: "item"
+				}
+				{
+					id: "3ADAE73E616B8E3D"
+					type: "xp"
+					xp: 1395
+				}
+				{
+					id: "002CF1E57AF43780"
+					item: {
+						components: {
+							"ftbquests:missing_item": "pastel:mellow_shallot_soup"
+						}
+						count: 1
+						id: "ftbquests:missing_item"
+					}
+					type: "item"
+				}
+			]
+			tasks: [
+				{
+					id: "3DC8FBFC956CAF36"
+					item: { count: 1, id: "minecraft:beetroot_soup" }
+					type: "item"
+				}
+				{
+					id: "2546A0E1A8F39A90"
+					item: { count: 1, id: "brewinandchewin:creamy_onion_soup" }
+					type: "item"
+				}
+				{
+					id: "718867E2EF781E4B"
+					item: { count: 1, id: "farmersdelight:chicken_soup" }
+					type: "item"
+				}
+				{
+					id: "0AD1C1AE93374617"
+					item: { count: 1, id: "farmersdelight:vegetable_soup" }
+					type: "item"
+				}
+				{
+					id: "4E7B96C53E904F28"
+					item: { count: 1, id: "farmersdelight:pumpkin_soup" }
+					type: "item"
+				}
+				{
+					id: "3BF080623F4D9B71"
+					item: { count: 1, id: "farmersdelight:noodle_soup" }
+					type: "item"
+				}
+				{
+					id: "13F78FD543FE7277"
+					item: { count: 1, id: "farmersdelight:onion_soup" }
+					type: "item"
+				}
+				{
+					id: "4BFC3843AFCB10D5"
+					item: { count: 1, id: "mynethersdelight:egg_soup" }
+					type: "item"
+				}
+				{
+					id: "6EB0EF37DD114C18"
+					item: { count: 1, id: "mynethersdelight:spicy_noodle_soup" }
+					type: "item"
+				}
+				{
+					id: "5E8D552A0FF694A2"
+					item: { count: 1, id: "mynethersdelight:rock_soup" }
+					type: "item"
+				}
+				{
+					id: "5F85C69C34FBF334"
+					item: { count: 1, id: "rusticdelight:bell_pepper_soup" }
+					type: "item"
+				}
+				{
+					id: "13F1E3CD9E212474"
+					item: { components: { "ftbquests:missing_item": "nomansdelight:living_soup_bowl" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "5AEA0D20B9E7CC56"
+					item: { count: 1, id: "eidolon_edoni:cream_of_mushroom_soup" }
+					type: "item"
+				}
+				{
+					id: "18AA2037E914E287"
+					item: { components: { "ftbquests:missing_item": "nomansdelight:living_soup" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+			]
+			x: 7.5d
+			y: 1.0d
+		}
+		{
+			id: "61242499A4C18556"
+			tasks: [{
+				id: "3FDEEC9630E9635B"
+				item: { count: 1, id: "eidolon_edoni:elder_stove" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "717C4DA37D49B617"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4A467A97864FEC80"
+				table_id: 8585514368098974498L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2C7BDB61C0BF5B65"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:tools/knife)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -12.0d
+			y: 1.0d
+		}
+		{
+			id: "336A10C4F5EA06DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2B590E8296F9E93D"
+				table_id: 1908087000246826769L
+				type: "choice"
+			}]
+			tasks: [{
+				id: "7AC547DA1EFBF1F9"
+				item: { count: 1, id: "farmersdelight:organic_compost" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "564A0F00DA83D1EB"
+			rewards: [{
+				id: "70FDF2BEF222BA13"
+				type: "xp"
+				xp: 30
+			}]
+			tasks: [{
+				id: "393BD494E5616E7F"
+				item: { count: 1, id: "farmersdelight:safety_net" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 1.0d
+		}
+		{
+			id: "4CF2229AA14E2957"
+			tasks: [
+				{
+					id: "7F5E03E80ABB5D51"
+					item: { count: 1, id: "farmerspizzeria:rolling_pin" }
+					type: "item"
+				}
+				{
+					id: "10314E29D1D294A0"
+					item: { count: 1, id: "farmersdelight:wheat_dough" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			id: "07ACBCD4C95B5683"
+			tasks: [{
+				id: "193544E470F02E5B"
+				item: { count: 1, id: "farmerspizzeria:dough_tomato_sauce" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 4.0d
+		}
+		{
+			id: "2B32DE45CB331EA1"
+			tasks: [{
+				id: "1C59EC62F23E9C98"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(farmerspizzeria:foods/pizza)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 5.5d
+		}
+		{
+			id: "232306814FE7BE31"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "343E9BA534EE54CC"
+				table_id: 4381546058069320023L
+				type: "loot"
+			}]
+			tasks: [{
+				id: "2B929E6C49EF9839"
+				item: { count: 1, id: "farmerspizzeria:charcoal_pizza" }
+				type: "item"
+			}]
+			x: -10.0d
+			y: 7.0d
+		}
+		{
+			id: "5AEB27B37E166F48"
+			tasks: [
+				{
+					id: "0ACA2A1746E962F2"
+					item: { count: 1, id: "farmerspizzeria:pepperoni_pizza" }
+					type: "item"
+				}
+				{
+					id: "7BE78AADD9A03EE1"
+					item: { count: 1, id: "farmerspizzeria:margarita_pizza" }
+					type: "item"
+				}
+				{
+					id: "77B158AF8A6B0673"
+					item: { count: 1, id: "farmerspizzeria:cheese_pizza" }
+					type: "item"
+				}
+				{
+					id: "4A3DF4DAC1F64FC0"
+					item: { count: 1, id: "farmerspizzeria:carbonara_pizza" }
+					type: "item"
+				}
+				{
+					id: "40CF5F74C41B8615"
+					item: { count: 1, id: "farmerspizzeria:meat_feast_pizza" }
+					type: "item"
+				}
+				{
+					id: "59791CB96AC1B7BC"
+					item: { count: 1, id: "farmerspizzeria:boscaiola_pizza" }
+					type: "item"
+				}
+				{
+					id: "6F7C72ACD77D0A6B"
+					item: { count: 1, id: "farmerspizzeria:abyssal_marinara_pizza" }
+					type: "item"
+				}
+				{
+					id: "5FDF62DA33894BA3"
+					item: { count: 1, id: "brewinandchewin:pizza" }
+					type: "item"
+				}
+				{
+					id: "516E39FB7061A93D"
+					item: { count: 1, id: "farmerspizzeria:charcoal_pizza" }
+					type: "item"
+				}
+				{
+					id: "777FDF42B058384B"
+					item: { components: { "ftbquests:missing_item": "nomansdelight:pesto_pizza" }, count: 1, id: "ftbquests:missing_item" }
+					type: "item"
+				}
+				{
+					id: "2CD3C251CD957899"
+					item: { count: 1, id: "natures_spirit:whole_pizza" }
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: 8.5d
+		}
+		{
+			id: "617DBFB63EE03714"
+			rewards: [
+				{
+					id: "7F3AF23954648AE9"
+					item: {
+						count: 1
+						id: "farmersdelight:cooked_bacon"
+					}
+					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "621D40706D5376FB"
+					table_id: 9040375349895807511L
+					type: "loot"
+				}
+				{
+					id: "088844B102F17A16"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [
+				{
+					id: "170DE0B7DFEEE765"
+					item: { count: 1, id: "rusticdelight:pancakes" }
+					type: "item"
+				}
+				{
+					id: "072D4ACBD6C2127F"
+					item: { count: 1, id: "rusticdelight:honey_pancakes" }
+					type: "item"
+				}
+				{
+					id: "254E2A4E4FE39A45"
+					item: { count: 1, id: "rusticdelight:chocolate_pancakes" }
+					type: "item"
+				}
+				{
+					id: "7B1B5081A3CC2145"
+					item: { count: 1, id: "rusticdelight:cherry_blossom_pancakes" }
+					type: "item"
+				}
+				{
+					id: "0E3D9857671B9A54"
+					item: { count: 1, id: "rusticdelight:vegetable_pancakes" }
+					type: "item"
+				}
+				{
+					id: "645E1D5CCB54299F"
+					item: { count: 1, id: "rusticdelight:pumpkin_pancakes" }
+					type: "item"
+				}
+				{
+					id: "0E4FC07713E8FF51"
+					item: { count: 1, id: "natures_delight:coconut_pancakes" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "36712D50CBA0F1C0"
+					item: { count: 1, id: "delighto_flight:cloud_berry_pancake_tower" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "5DF4891E8D02C426"
+					item: { count: 1, id: "nomansland:pancake" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "253680E84E9E297B"
+					item: { count: 1, id: "supplementaries:pancake" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -6.0d
+			y: -3.5d
+		}
+	]
+}

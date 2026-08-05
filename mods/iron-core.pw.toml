@@ -1,0 +1,13 @@
+name = "Iron Core"
+filename = "IronCore1.20.1-V1.0NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "31f471a28c6818712e65b784e52fa235fc5d7a55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8383533
+project-id = 1600198

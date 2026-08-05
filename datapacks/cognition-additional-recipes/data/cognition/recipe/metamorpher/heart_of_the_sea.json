@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "eidolon_repraised:wraith_heart"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "eternal_starlight:water_crystal"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "minecraft:diamond"
+  },
+  "count3": 1,
+  "result": {
+    "id": "minecraft:heart_of_the_sea",
+    "count": 1
+  },
+  "cost": 910,
+  "processTime": 1200,
+  "id": "cognition:heart_of_the_sea_metamorphosis"
+}

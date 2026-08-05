@@ -1,0 +1,32 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    "ttg",
+    "ftt",
+    " f "
+  ],
+  "reagents": [
+    "bnbn"
+  ],
+  "key": {
+    "g": {
+    	"item": "irons_spellbooks:bloody_vellum"
+    },
+    "t": {
+    	"item": "minecraft:leather"
+    },
+    "f": {
+    	"item": "eternal_starlight:tooth_of_hunger"
+    },
+    "n": {
+    	"item": "delighto_flight:phantom_wing"
+    },
+    "b": {
+    	"item": "eidolon_repraised:bloodlust_incense"    
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "artifacts:vampiric_glove"
+  }
+}

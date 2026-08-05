@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "eidolon_repraised:basic_amulet"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "cognition:primordial_assembly"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "mowziesmobs:naga_fang"
+  },
+  "count3": 4,
+  "result": {
+    "id": "relics:hunting_belt",
+    "count": 1
+  },
+  "cost": 910,
+  "processTime": 3600,
+  "id": "cognition:hunting_belt_metamorphosis"
+}

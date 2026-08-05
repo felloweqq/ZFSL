@@ -1,0 +1,41 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    "131",
+    "343",
+    "535"
+  ],
+  "reagents": [
+    "9687"
+  ],
+  "key": {
+    "1": {
+    	"item": "nirvana:hemp"
+    },
+    "3": {
+    	"tag": "minecraft:logs"
+	},
+    "4": {
+    	"item": "minecraft:compass"
+    },
+    "5": {
+    	"item": "eidolon_repraised:enchanted_ash"
+    },
+    "6": {
+    	"item": "minecraft:turtle_egg"
+	},
+    "7": {
+    	"item": "nomansland:tortoise_egg"
+    },
+    "8": {
+    	"item": "creaturefeature:bouquet"
+    },
+    "9": {
+    	"item": "creaturefeature:blighted_brain"
+	}
+  },
+  "result": {
+	"count": 1,
+    "id": "naturescompass:naturescompass"
+  }
+}

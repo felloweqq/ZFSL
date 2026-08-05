@@ -1,0 +1,13 @@
+name = "Truly Dark"
+filename = "trulydark-neoforge-1.21.1-2.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7556ff457b72e0b43103274c9bfbc859c99fd3ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8044933
+project-id = 1520893

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HLH",
+    "C C",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "H": {
+      "item": "oritech:biosteel_ingot"
+    },
+    "L": {
+      "item": "eidolon_repraised:basic_belt"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:pumpkin_leggings",
+    "count": 1
+  }
+}

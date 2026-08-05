@@ -1,0 +1,23 @@
+{
+	id: "760CF1CD2E1EAC6F"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{
+			count: 2
+			id: "00CAE77A08D0BCE6"
+			item: {
+				count: 1
+				id: "minecraft:packed_ice"
+			}
+		}
+		{
+			count: 2
+			id: "2731B44ABE933C4A"
+			item: {
+				count: 1
+				id: "minecraft:magma_block"
+			}
+		}
+	]
+}

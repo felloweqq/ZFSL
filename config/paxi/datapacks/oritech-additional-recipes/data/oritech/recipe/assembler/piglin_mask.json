@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "mynethersdelight:hoglin_trophy"
+    },
+    {
+      "item": "eidolon_repraised:arcane_gold_ingot"
+    },
+    {
+      "item": "eidolon_repraised:arcane_gold_ingot"
+    },
+    {
+      "item": "revotedwildfire:wildfire_fragment"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "relics:piglin_mask"
+    }
+  ],
+  "time": 3600
+}

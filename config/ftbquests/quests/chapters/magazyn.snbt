@@ -1,0 +1,244 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "magazyn"
+	group: ""
+	id: "4EFCA8D8F6B1C1BD"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5A4C9A4F1F1A0749"
+			rewards: [{
+				count: 2
+				id: "468F75D99FDDA8E8"
+				item: {
+					count: 1
+					id: "cognition:mending_neurogel_blob"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7E04432AD5019D5E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:gems/quartz)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "11F3D55DB0663504"
+			rewards: [
+				{
+					id: "788C407364557CDC"
+					item: {
+						count: 1
+						id: "refinedstorage:wrench"
+					}
+					type: "item"
+				}
+				{
+					count: 48
+					id: "5015E6F642862406"
+					item: {
+						count: 1
+						id: "minecraft:quartz"
+					}
+					random_bonus: 16
+					type: "item"
+				}
+				{
+					id: "0875D1375D7F6B24"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [
+				{
+					id: "7B7FB6A3CD883095"
+					item: { count: 1, id: "refinedstorage:controller" }
+					type: "item"
+				}
+				{
+					id: "1D84E8A297278A3A"
+					item: { count: 1, id: "oritech:basic_generator_block" }
+					optional_task: true
+					type: "item"
+				}
+				{
+					id: "7241CF02003153D8"
+					item: { count: 1, id: "oritech:energy_pipe" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			id: "6F18530035AFF368"
+			rewards: [
+				{
+					id: "59E8C1A8BFA39401"
+					item: {
+						count: 1
+						id: "refinedstorage:1k_storage_disk"
+					}
+					type: "item"
+				}
+				{
+					id: "5C2A445B352BECD7"
+					type: "xp"
+					xp: 50
+				}
+			]
+			tasks: [
+				{
+					id: "2F13E8B4CA6064B1"
+					item: { count: 1, id: "refinedstorage:disk_drive" }
+					type: "item"
+				}
+				{
+					count: 4L
+					id: "0158EF819C4CA726"
+					item: { count: 1, id: "refinedstorage:cable" }
+					type: "item"
+				}
+			]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			id: "79DC8F3C45AFB7CD"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "71153872D2FF72E5"
+					table_id: 1287412112379532768L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "694244993458CDA3"
+					table_id: 4381546058069320023L
+					type: "loot"
+				}
+				{
+					id: "57C519314F413C6E"
+					type: "xp"
+					xp: 100
+				}
+			]
+			tasks: [{
+				id: "0DDCD61F9CC9F276"
+				item: { count: 1, id: "refinedstorage:grid" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "1E724059237A1536"
+			rewards: [{
+				id: "410DB5A0AA46DCFC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "20295B4547718BFC"
+				item: { count: 1, id: "refinedstorage:crafting_grid" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -1.0d
+		}
+		{
+			id: "7E99455E22901076"
+			tasks: [
+				{
+					id: "5B9141903476D00B"
+					item: { count: 1, id: "refinedstorage:security_manager" }
+					type: "item"
+				}
+				{
+					id: "4321B37455BF4311"
+					item: { count: 1, id: "refinedstorage:security_card" }
+					type: "item"
+				}
+			]
+			x: 11.5d
+			y: -1.0d
+		}
+		{
+			id: "593C46813BCDF99E"
+			tasks: [
+				{
+					id: "4F3A1354F82B181A"
+					item: { count: 1, id: "refinedstorage:wireless_grid" }
+					type: "item"
+				}
+				{
+					id: "7867AD8806CE7D50"
+					item: { count: 1, id: "refinedstorage:wireless_transmitter" }
+					type: "item"
+				}
+				{
+					id: "46FAA005363B8F7C"
+					item: { count: 1, id: "refinedstorage_quartz_arsenal:wireless_crafting_grid" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 13.5d
+			y: -1.0d
+		}
+		{
+			id: "7FEFC0C65E5F773F"
+			rewards: [{
+				id: "159A313ECF0924DC"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [
+				{
+					id: "56A418D4425024D0"
+					item: { count: 1, id: "refinedstorage:range_upgrade" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "7B8A3558EF6AA6E3"
+					item: { count: 1, id: "refinedstorage:controller" }
+					type: "item"
+				}
+				{
+					count: 2L
+					id: "03E7E9466E0592D6"
+					item: { count: 1, id: "refinedstorage:wireless_transmitter" }
+					type: "item"
+				}
+			]
+			x: 15.5d
+			y: -1.0d
+		}
+		{
+			id: "4F14986C8139C792"
+			tasks: [
+				{
+					id: "00F5B9804A0B81D9"
+					item: { count: 1, id: "refinedstorage:importer" }
+					type: "item"
+				}
+				{
+					id: "65163A1A23E2BED9"
+					item: { count: 1, id: "refinedstorage:exporter" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: 9.5d
+			y: -1.0d
+		}
+	]
+}

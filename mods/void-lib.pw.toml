@@ -1,0 +1,13 @@
+name = "Void Lib"
+filename = "void_lib-1.1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "893a74ac8648fde69a12c09af45219fe324287b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5791555
+project-id = 1097945

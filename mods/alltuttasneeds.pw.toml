@@ -1,0 +1,13 @@
+name = "All Tutta's Needs"
+filename = "alltuttasneeds-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a57006bbc352627818115cfa7f46411e285c6fb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8517853
+project-id = 1224550

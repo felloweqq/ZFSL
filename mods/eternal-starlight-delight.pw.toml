@@ -1,0 +1,13 @@
+name = "Eternal Starlight's Delight"
+filename = "eternal_starlight_delight-neoforge-1.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "873e62c709c087b31f82a0bbb654c894efc8e382"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8148695
+project-id = 1460499

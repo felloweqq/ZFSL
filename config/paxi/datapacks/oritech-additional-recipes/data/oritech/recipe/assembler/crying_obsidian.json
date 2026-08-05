@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:obsidian"
+    },
+	{
+      "item": "minecraft:ghast_tear"
+    }
+  ],
+  "results": [
+    {
+      "count": 3,
+      "id": "minecraft:crying_obsidian"
+    }
+  ],
+  "time": 200
+}

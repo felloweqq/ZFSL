@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "bab",
+    "aca",
+    "bab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "oritech:electrum_ingot"
+    },
+	"c": {
+    "item": "minecraft:gold_ingot"
+	}
+  },
+  "result": {
+    "id": "ironbarrels:gold_to_diamond_barrel_upgrade",
+    "count": 1
+  }
+}

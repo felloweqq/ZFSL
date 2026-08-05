@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:netherite_scrap"
+  },
+  "count1": 4,
+  "ingredient2": {
+    "item": "minecraft:experience_bottle"
+  },
+  "count2": 4,
+  "ingredient3": {
+    "item": "minecraft:repeater"
+  },
+  "count3": 1,
+  "result": {
+    "id": "relics:experience_disperser",
+    "count": 1
+  },
+  "cost": 550,
+  "processTime": 4800,
+  "id": "cognition:experience_disperser_metamorphosis"
+}

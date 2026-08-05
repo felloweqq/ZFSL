@@ -1,0 +1,35 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    " g ",
+    "bfb",
+    " t "
+  ],
+  "reagents": [
+    "snsn"
+  ],
+  "key": {
+    "g": {
+    	"item": "minecraft:chorus_flower"
+    },
+    "t": {
+    	"item": "mowziesmobs:elokosa_paw_full"
+    },
+    "f": {
+    	"item": "eternal_starlight:wand_of_teleportation"
+    },
+    "n": {
+    	"item": "minecraft:ender_pearl"
+    },
+    "b": {
+    	"item": "oritech:energite_ingot"    
+	},
+    "s": {
+    	"item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "relics:chorus_staff"
+  }
+}

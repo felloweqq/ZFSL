@@ -1,0 +1,13 @@
+name = "Evolution of Entities"
+filename = "evolution-1.21.1-1.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "524bc41af34b26fc0addf24e17c86938f68c1031"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7609491
+project-id = 1368368

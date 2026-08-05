@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tempad:chronon_battery"
+    },
+    "R": {
+      "item": "oritech:target_designator"
+    },
+    "G": {
+      "tag": "c:glass_blocks/tinted"
+    },
+    "Q": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "t": {
+      "item": "tempad:timedoor_projector"
+    },
+    "T": {
+      "item": "tempad:time_steel"
+    }
+  },
+  "pattern": [
+    "TGT",
+    "QBt",
+    "RTT"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tempad:tempad"
+  }
+}

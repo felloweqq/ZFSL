@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": {
+      "item": "oritech:unholy_intelligence"
+    },
+    "c": {
+      "item": "cognition:primordial_assembly"
+    },
+    "f": {
+      "item": "oritech:electrum_ingot"
+    },
+    "s": {
+      "tag": "oritech:plating"
+    }
+  },
+  "pattern": [
+    "fff",
+    "fcf",
+    "sbs"
+  ],
+  "result": {
+    "count": 1,
+    "id": "oritech:simple_augment_station"
+  }
+}

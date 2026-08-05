@@ -1,0 +1,32 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "eidolon_repraised:zombie_heart"
+    }
+  ],
+  "result": [
+    {
+      "item": {
+        "count": 8,
+        "id": "minecraft:rotten_flesh"
+      }
+    },
+    {
+      "chance": 0.5,
+      "item": {
+        "count": 4,
+        "id": "minecraft:rotten_flesh"
+      }
+    }
+  ],
+  "tool": [
+  {
+    "type": "farmersdelight:item_ability",
+    "action": "knife_dig"
+  },
+  {
+    "tag": "c:tools/knife"
+  }
+]
+}

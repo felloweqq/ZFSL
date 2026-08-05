@@ -1,0 +1,13 @@
+name = "Block Pops"
+filename = "BlockPops - Neoforge - 1.21.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78a1d1e59fda60873110dd1f723bc59182bf7cc8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7771511
+project-id = 1394429

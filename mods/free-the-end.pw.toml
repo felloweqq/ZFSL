@@ -1,0 +1,13 @@
+name = "Free The End"
+filename = "free-the-end-1.21.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6b5098e01b7c65db1ebface3d44819e59afd7db"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7738560
+project-id = 1482667

@@ -1,0 +1,13 @@
+name = "Stick n' Stone"
+filename = "sticknstone-1.1.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "68fe65a1f1000f30b4c7932a8be0503bddfbce9d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6782254
+project-id = 982820

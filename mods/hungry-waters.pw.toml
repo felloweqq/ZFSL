@@ -1,0 +1,13 @@
+name = "Hungry Waters"
+filename = "hungrywaters-1.21.1-neoforge-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uL4jV6kF/versions/m32IJ5zj/hungrywaters-1.21.1-neoforge-1.2.1.jar"
+hash-format = "sha512"
+hash = "84a6b5987ef6a480b79cf5e63b415a2f42bab23a8a3479ba3f18d23f9ed31424f700fd98d4a092ad43d8403fc64ebe439c0b34962b3cb70c4ce867728798732b"
+
+[update]
+[update.modrinth]
+mod-id = "uL4jV6kF"
+version = "m32IJ5zj"

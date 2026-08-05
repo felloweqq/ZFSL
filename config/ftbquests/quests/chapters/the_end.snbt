@@ -1,0 +1,184 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_end"
+	group: ""
+	id: "7AC29D0BD6F5D2C1"
+	images: [ ]
+	order_index: 9
+	quest_links: [ ]
+	quests: [
+		{
+			id: "6F6F9A60266A1B7C"
+			tasks: [{
+				id: "523DBB61E357B5C7"
+				item: { count: 1, id: "minecraft:ender_eye" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "1A0E9C23E2A9C001"
+			tasks: [{
+				id: "537AAB5E7020288E"
+				item: { count: 1, id: "endrem:lost_eye" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			id: "4E5F7C9C06D492FB"
+			tasks: [{
+				id: "68ED182D0B4C772E"
+				item: { count: 1, id: "endrem:old_eye" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "2865A13DBA03B451"
+			tasks: [{
+				id: "5E24C856A0356B74"
+				item: { count: 1, id: "endrem:rogue_eye" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			id: "29A5085E9B8C610A"
+			tasks: [{
+				id: "7BC0070CBC5200F4"
+				item: { count: 1, id: "endrem:corrupted_eye" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: -4.0d
+		}
+		{
+			id: "33B05EE963A8B3FA"
+			tasks: [{
+				id: "15BBFDF4C744FB59"
+				item: { count: 1, id: "endrem:black_eye" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -4.0d
+		}
+		{
+			id: "0B6A4F191B361F2D"
+			tasks: [{
+				id: "613A3AF4F1E6D54B"
+				item: { count: 1, id: "endrem:cursed_eye" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: -2.5d
+		}
+		{
+			id: "010F98569467F5B3"
+			tasks: [{
+				id: "422902262135E524"
+				item: { count: 1, id: "endrem:nether_eye" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.5d
+		}
+		{
+			id: "5313E8A7DAC9E4FD"
+			tasks: [{
+				id: "0D4F32A95FA96074"
+				item: { count: 1, id: "endrem:witch_eye" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			id: "48D0125C2EAB00C3"
+			tasks: [{
+				id: "3B1F40F3CEACE877"
+				item: { count: 1, id: "endrem:magical_eye" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "0E636312FC7208F7"
+			tasks: [{
+				id: "7634BC16EC774FE3"
+				item: { count: 1, id: "endrem:guardian_eye" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "14EA1CF55176B03B"
+			tasks: [{
+				id: "4E3BD260E4CD6D14"
+				item: { count: 1, id: "endrem:wither_eye" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			id: "68C6117611E0F38A"
+			tasks: [{
+				id: "31395E184B6FB939"
+				item: { count: 1, id: "endrem:undead_eye" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			id: "739B4C7994D0E37F"
+			tasks: [{
+				id: "5CB0DB0751B31CC6"
+				item: { count: 1, id: "endrem:exotic_eye" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			id: "544C17D7BBCB8FF6"
+			tasks: [{
+				id: "1CB04DEA0CC502A4"
+				item: { count: 1, id: "endrem:evil_eye" }
+				type: "item"
+			}]
+			x: 9.5d
+			y: 0.0d
+		}
+		{
+			icon_scale: 2.0d
+			id: "062013B6879A79CA"
+			shape: "circle"
+			tasks: [{
+				id: "6727B241D3A18BDE"
+				item: { count: 1, id: "endrem:cryptic_eye" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			id: "2CC666CB36DAAC11"
+			tasks: [{
+				id: "1D93F67051E72E2E"
+				item: { count: 1, id: "endrem:cold_eye" }
+				type: "item"
+			}]
+			x: 10.5d
+			y: -1.0d
+		}
+	]
+}

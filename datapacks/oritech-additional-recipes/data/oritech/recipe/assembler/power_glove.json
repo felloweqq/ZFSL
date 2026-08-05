@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "revotedwildfire:wildfire_fragment"
+    },
+    {
+      "item": "oritech:silicon"
+    },
+    {
+      "item": "oritech:silicon"
+    },
+    {
+      "item": "oritech:duratium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "artifacts:power_glove"
+    }
+  ],
+  "time": 3600
+}

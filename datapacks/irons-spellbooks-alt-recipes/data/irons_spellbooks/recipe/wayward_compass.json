@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ILI",
+    "DID"
+  ],
+  "key": {
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+    },
+    "I": {
+      "item": "refinedstorage:quartz_enriched_iron"
+    },
+    "L": {
+      "item": "creaturefeature:blighted_brain"
+    },
+    "D": {
+      "item": "eternal_starlight:deepsilver_ingot"
+    },
+    "B": {
+      "item": "alshanex_familiars:pet_soul"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wayward_compass",
+    "count": 1
+  }
+}

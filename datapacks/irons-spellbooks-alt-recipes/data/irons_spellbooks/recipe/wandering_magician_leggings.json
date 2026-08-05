@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ALA",
+	"A A"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather_leggings"
+    },
+    "A": {
+      "item": "irons_spellbooks:arcane_essence"
+    }
+  },
+  "result": {
+    "id": "irons_spellbooks:wandering_magician_leggings"
+  }
+}

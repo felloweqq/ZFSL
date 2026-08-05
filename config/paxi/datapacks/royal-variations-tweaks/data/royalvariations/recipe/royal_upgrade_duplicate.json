@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#R#",
+    "#C#",
+    "#R#"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:ingots/iron"
+    },
+    "R": {
+      "item": "royalvariations:spiritual_crown_shard"
+    },
+    "C": {
+      "item": "royalvariations:royal_upgrade_smithing_template"
+    }
+  },
+  "result": {
+    "count": 2,
+    "id": "royalvariations:royal_upgrade_smithing_template"
+  }
+}

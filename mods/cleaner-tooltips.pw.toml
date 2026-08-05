@@ -1,0 +1,13 @@
+name = "Cleaner Tooltips"
+filename = "cleanertooltips-neoforge-1.21.1-1.2.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "03b57e7b3b5a72dbd3d09740affe8bb00c4b1818"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8415773
+project-id = 1384318

@@ -1,0 +1,74 @@
+{
+	id: "22B63AB8EE20246F"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 16
+			id: "7B631AE8831D1394"
+			item: {
+				count: 1
+				id: "minecraft:apple"
+			}
+			random_bonus: 8
+			weight: 40.0f
+		}
+		{
+			count: 4
+			id: "609439678FF3FA08"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			random_bonus: 4
+			weight: 15.0f
+		}
+		{
+			id: "2AD1FF4F10E8C28F"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "58204F2B3A6F69FA"
+			item: {
+				count: 1
+				id: "nomansland:honeyed_apple"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "6BDF8E395C81F805"
+			item: {
+				count: 1
+				id: "farmersdelight:apple_pie"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			count: 6
+			id: "5239F9140F91F9EF"
+			item: {
+				count: 1
+				id: "farmersdelight:apple_cider"
+			}
+			random_bonus: 12
+			weight: 15.0f
+		}
+		{
+			id: "66F27DBECF49206A"
+			item: {
+				count: 1
+				id: "tide:enchanted_golden_apple_bobber"
+			}
+			weight: 7.0f
+		}
+	]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "W": {
+      "item": "eidolon_repraised:polished_planks"
+    },
+    "C": {
+      "item": "irons_spellbooks:magic_cloth"
+    }
+  },
+  "pattern": [
+    "CC",
+    "WW",
+    "WW"
+  ],
+  "result": {
+    "count": 1,
+    "id": "irons_jewelry:jewelcrafting_station"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "cbc",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "tag": "minecraft:planks"
+    },
+	"c": {
+    "item": "minecraft:copper_ingot"
+	}
+  },
+  "result": {
+    "id": "ironbarrels:wood_to_iron_barrel_upgrade",
+    "count": 1
+  }
+}

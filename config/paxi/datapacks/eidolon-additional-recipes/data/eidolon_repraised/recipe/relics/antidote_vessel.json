@@ -1,0 +1,35 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    " r ",
+    "imi",
+    " g "
+  ],
+  "reagents": [
+    "nbnb"
+  ],
+  "key": {
+    "m": {
+    	"tag": "c:drinks/milk"
+    },
+    "g": {
+    	"item": "minecraft:honey_bottle"
+    },
+    "r": {
+    	"item": "minecraft:pufferfish"
+    },
+    "i": {
+    	"item": "minecraft:glow_ink_sac"
+    },
+    "b": {
+    	"item": "minecraft:rabbit_foot"    
+    },
+    "n": {
+    	"item": "minecraft:armadillo_scute"
+    }
+  },
+  "result": {
+	"count": 1,
+    "id": "artifacts:antidote_vessel"
+  }
+}

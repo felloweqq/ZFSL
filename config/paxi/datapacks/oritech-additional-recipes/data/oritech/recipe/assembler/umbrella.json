@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "item": "minecraft:shield"
+    },
+    {
+      "item": "minecraft:wind_charge"
+    },
+    {
+      "item": "minecraft:sunflower"
+    },
+    {
+      "item": "plushie_buddies:fabric"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "artifacts:umbrella"
+    }
+  ],
+  "time": 2400
+}

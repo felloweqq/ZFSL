@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "G": {
+      "item": "fangs_n_claws:giant_feather"
+    },
+	"F": {
+      "item": "fangs_n_claws:long_fang"
+    },
+    "D": {
+      "item": "minecraft:yellow_dye"
+    },
+    "S": {
+      "tag": "c:rods/wooden"
+    }
+  },
+  "pattern": [
+    "D S",
+    "GS ",
+    "F  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mowziesmobs:spear"
+  }
+}

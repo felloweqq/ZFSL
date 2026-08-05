@@ -1,0 +1,11 @@
+{
+	id: "3691D5E3400E8AC5"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{ id: "09C94D7F48826004", item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] }, "minecraft:damage": 105 }, count: 1, id: "fangs_n_claws:scorpion_boots" } }
+		{ id: "34F15071CF6D1309", item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] }, "minecraft:damage": 120 }, count: 1, id: "fangs_n_claws:scorpion_leggings" } }
+		{ id: "078E3F81CE7A95B2", item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] }, "minecraft:damage": 132 }, count: 1, id: "fangs_n_claws:scorpion_chestplate" } }
+		{ id: "3BF1D8935C37FCBB", item: { components: { "cold_sweat:armor_insulation": { insulation: [ ] }, "minecraft:damage": 90 }, count: 1, id: "fangs_n_claws:scorpion_helmet" } }
+	]
+}

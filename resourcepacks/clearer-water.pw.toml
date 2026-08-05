@@ -1,0 +1,13 @@
+name = "Clearer Water"
+filename = "Mugget's Clearer Water v1.4.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JeCajAKQ/versions/NfmiZ77q/Mugget%27s%20Clearer%20Water%20v1.4.0.zip"
+hash-format = "sha512"
+hash = "267b5f6f17691bf675aee4b80f67cde68f101491c92322d0a73ce21f4d2762699376efac2250332a10f135252d4ce5505e6575fcf7bc8bd4d129a26cf757edd3"
+
+[update]
+[update.modrinth]
+mod-id = "JeCajAKQ"
+version = "NfmiZ77q"

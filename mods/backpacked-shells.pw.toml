@@ -1,0 +1,13 @@
+name = "Backpacked: Shells"
+filename = "backpacked-shells-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b0f86dab13807ebff19ab081e8bf76c9945803bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8014240
+project-id = 1442204

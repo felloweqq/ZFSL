@@ -1,0 +1,14 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": [
+    "nether_wastes",
+    "crimson_forest",
+    "basalt_deltas"
+  ],
+  "spawners": {
+    "type": "undead_unleashed:flamebreather",
+    "weight": 6,
+    "minCount": 1,
+    "maxCount": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "tempad:chronon_battery"
+    },
+    "T": {
+      "item": "tempad:time_steel"
+    },
+    "J": {
+      "item": "minecraft:jukebox"
+    },
+    "E": {
+      "item": "oritech:electrum_block"
+	}
+  },
+  "pattern": [
+    "TJT",
+    "EBE",
+    "EBE"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tempad:metronome"
+  }
+}

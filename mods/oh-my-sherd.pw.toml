@@ -1,0 +1,13 @@
+name = "Oh My Sherd"
+filename = "ohmysherd-neoforge-1.21.1-21.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cadf0e07f5ec794813c5373a505d20b9bed1c365"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7115339
+project-id = 897227

@@ -1,0 +1,13 @@
+name = "Backpacked Hide Backpacks"
+filename = "hide_backpacks-1.0.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a012265a1351eaee1dfc6e6221790d815f720de7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7843091
+project-id = 1499216

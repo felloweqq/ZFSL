@@ -1,0 +1,14 @@
+{
+	id: "5B2D58C00DA14C03"
+	loot_size: 1
+	order_index: 16
+	rewards: [
+		{ id: "7BAB5463E28D9E6A", item: { count: 1, id: "irons_jewelry:ruby" } }
+		{ id: "0621613CD02AFCE9", item: { count: 1, id: "irons_jewelry:sapphire" } }
+		{ id: "184C4362598D4764", item: { count: 1, id: "irons_jewelry:garnet" } }
+		{ id: "14F38E4D04FBB4BA", item: { count: 1, id: "irons_jewelry:peridot" } }
+		{ id: "523F434A1DFCA902", item: { count: 1, id: "irons_jewelry:onyx" } }
+		{ id: "5FE0888D56591A1F", item: { count: 1, id: "irons_jewelry:moonstone" } }
+		{ id: "720384FA558B0FFC", item: { count: 1, id: "irons_jewelry:topaz" } }
+	]
+}

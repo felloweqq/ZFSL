@@ -1,0 +1,24 @@
+{
+  "type": "oritech:assembler",
+  "ingredients": [
+    {
+      "tag": "c:ender_pearls"
+    },
+    {
+      "item": "oritech:flux_gate"
+    },
+    {
+      "item": "oritech:advanced_battery"
+    },
+    {
+      "item": "irons_spellbooks:energized_core"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "artifacts:warp_drive"
+    }
+  ],
+  "time": 3600
+}

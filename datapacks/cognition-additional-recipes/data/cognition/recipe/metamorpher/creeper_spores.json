@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:gunpowder"
+  },
+  "count1": 2,
+  "ingredient2": {
+    "item": "eidolon_repraised:soul_shard"
+  },
+  "count2": 2,
+  "ingredient3": {
+    "tag": "eternal_starlight:seeds_launcher_ammo"
+  },
+  "count3": 4,
+  "result": {
+    "id": "tolerable_creepers:creeper_spores",
+    "count": 4
+  },
+  "cost": 40,
+  "processTime": 720,
+  "id": "cognition:creeper_spores_metamorphosis"
+}

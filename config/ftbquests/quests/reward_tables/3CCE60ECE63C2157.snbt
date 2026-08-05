@@ -1,0 +1,77 @@
+{
+	id: "3CCE60ECE63C2157"
+	loot_size: 1
+	order_index: 20
+	rewards: [
+		{ id: "53F939ABBD0BBAB9", item: { count: 1, id: "plushie_buddies:plushie_allay" } }
+		{ id: "7BD61CEB23965E14", item: { count: 1, id: "plushie_buddies:plushie_armadillo" } }
+		{ id: "77A3A624DAF83A4A", item: { count: 1, id: "plushie_buddies:plushie_axolotl" } }
+		{ id: "3F500BED3591E279", item: { count: 1, id: "plushie_buddies:plushie_bat" } }
+		{ id: "279BB5DD51B6761B", item: { count: 1, id: "plushie_buddies:plushie_bee" } }
+		{ id: "5D1ACD97F5EF45FF", item: { count: 1, id: "plushie_buddies:plushie_blaze" } }
+		{ id: "016BB466B20E615B", item: { count: 1, id: "plushie_buddies:plushie_breeze" } }
+		{ id: "744B191237900284", item: { count: 1, id: "plushie_buddies:plushie_camel" } }
+		{ id: "32911AFD876EDAEC", item: { count: 1, id: "plushie_buddies:plushie_cat" } }
+		{ id: "3E16CDB17F9FE7CA", item: { count: 1, id: "plushie_buddies:plushie_cave_spider" } }
+		{ id: "1B24E91C84E65E58", item: { count: 1, id: "plushie_buddies:plushie_chicken" } }
+		{ id: "41766C3AB4DB4E30", item: { count: 1, id: "plushie_buddies:plushie_cow" } }
+		{ id: "6F8974E2730D7446", item: { count: 1, id: "plushie_buddies:plushie_creeper" } }
+		{ id: "43565E435CDC81D7", item: { count: 1, id: "plushie_buddies:plushie_dolphin" } }
+		{ id: "55CA0EA23F0DA200", item: { count: 1, id: "plushie_buddies:plushie_donkey" } }
+		{ id: "3579CB807C1C06F3", item: { count: 1, id: "plushie_buddies:plushie_drowned" } }
+		{ id: "47BF8287A0D21FEA", item: { count: 1, id: "plushie_buddies:plushie_elder_guardian" } }
+		{ id: "467F74D6998C7719", item: { count: 1, id: "plushie_buddies:plushie_enderdragon" } }
+		{ id: "2948DBC348A1AA44", item: { count: 1, id: "plushie_buddies:plushie_enderman" } }
+		{ id: "08C3862EE75ACBAA", item: { count: 1, id: "plushie_buddies:plushie_evoker" } }
+		{ id: "6A4BF8E45CD46B5D", item: { count: 1, id: "plushie_buddies:plushie_fox" } }
+		{ id: "6313C0C5379BDB62", item: { count: 1, id: "plushie_buddies:plushie_frog" } }
+		{ id: "3E5C44E7CCAB9CCC", item: { count: 1, id: "plushie_buddies:plushie_ghast" } }
+		{ id: "755F2382F891478B", item: { count: 1, id: "plushie_buddies:plushie_glow_squid" } }
+		{ id: "0046A2A8239F0D2D", item: { count: 1, id: "plushie_buddies:plushie_goat" } }
+		{ id: "6F1DC8B9AEAE04F6", item: { count: 1, id: "plushie_buddies:plushie_guardian" } }
+		{ id: "53E26C1098299E8D", item: { count: 1, id: "plushie_buddies:plushie_horse" } }
+		{ id: "115F3B52933A0181", item: { count: 1, id: "plushie_buddies:plushie_hoglin" } }
+		{ id: "4354DBBE99CF7A76", item: { count: 1, id: "plushie_buddies:plushie_husk" } }
+		{ id: "222DF9C1DEA9CDE5", item: { count: 1, id: "plushie_buddies:plushie_magma_cube" } }
+		{ id: "4761B9043D1C7739", item: { count: 1, id: "plushie_buddies:plushie_mooshroom" } }
+		{ id: "4EB601E703A529B2", item: { count: 1, id: "plushie_buddies:plushie_mule" } }
+		{ id: "41C4032C4EFD53A1", item: { count: 1, id: "plushie_buddies:plushie_panda" } }
+		{ id: "79BB12368641990E", item: { count: 1, id: "plushie_buddies:plushie_parrot" } }
+		{ id: "6C49B045AE739576", item: { count: 1, id: "plushie_buddies:plushie_phantom" } }
+		{ id: "11F1DA8D561DA0FC", item: { count: 1, id: "plushie_buddies:plushie_pig" } }
+		{ id: "65FA49357B7AEA64", item: { count: 1, id: "plushie_buddies:plushie_piglin" } }
+		{ id: "1E530203F67F4F31", item: { count: 1, id: "plushie_buddies:plushie_piglin_brute" } }
+		{ id: "7FA57FD3ACB85834", item: { count: 1, id: "plushie_buddies:plushie_polar_bear" } }
+		{ id: "328A8B5DAF245875", item: { count: 1, id: "plushie_buddies:plushie_pufferfish" } }
+		{ id: "21FBA1BAEF043814", item: { count: 1, id: "plushie_buddies:plushie_pillager" } }
+		{ id: "01F135931A46D0EF", item: { count: 1, id: "plushie_buddies:plushie_rabbit" } }
+		{ id: "7EC6057CA9569F6E", item: { count: 1, id: "plushie_buddies:plushie_ravanger" } }
+		{ id: "56C936F2470DCAE1", item: { count: 1, id: "plushie_buddies:plushie_sheep" } }
+		{ id: "3B3AD8E225033666", item: { count: 1, id: "plushie_buddies:plushie_shulker" } }
+		{ id: "2F567AE5459C4DFD", item: { count: 1, id: "plushie_buddies:plushie_skeleton" } }
+		{ id: "1161F7E88E865C98", item: { count: 1, id: "plushie_buddies:plushie_skeleton_horse" } }
+		{ id: "1309BABF71005CCF", item: { count: 1, id: "plushie_buddies:plushie_slime" } }
+		{ id: "3BBE4FF0E14C9AFD", item: { count: 1, id: "plushie_buddies:plushie_sniffer" } }
+		{ id: "64A2736647613590", item: { count: 1, id: "plushie_buddies:plushie_spider" } }
+		{ id: "1EFDF3D0B8F61D44", item: { count: 1, id: "plushie_buddies:plushie_squid" } }
+		{ id: "1E5DCCE67DA1E9FF", item: { count: 1, id: "plushie_buddies:plushie_stray" } }
+		{ id: "4F473D8FD836EBFA", item: { count: 1, id: "plushie_buddies:plushie_strider" } }
+		{ id: "670E34DA23BC7257", item: { count: 1, id: "plushie_buddies:plushie_iron_golem" } }
+		{ id: "7EAAC7F30CA552B8", item: { count: 1, id: "plushie_buddies:plushie_llama" } }
+		{ id: "2A972E51800514E7", item: { count: 1, id: "plushie_buddies:plushie_trader_lama" } }
+		{ id: "57D779725BC77E81", item: { count: 1, id: "plushie_buddies:plushie_turtle" } }
+		{ id: "303FEC50C4657638", item: { count: 1, id: "plushie_buddies:plushie_vex" } }
+		{ id: "4DCFCE702E8E6B90", item: { count: 1, id: "plushie_buddies:plushie_villager" } }
+		{ id: "02F309FBA073C911", item: { count: 1, id: "plushie_buddies:plushie_vindicator" } }
+		{ id: "5BD1EEB75AF04B08", item: { count: 1, id: "plushie_buddies:plushie_warden" } }
+		{ id: "32A1D9515EEA056A", item: { count: 1, id: "plushie_buddies:plushie_wandering_trader" } }
+		{ id: "5022A8ECFA19B29B", item: { count: 1, id: "plushie_buddies:plushie_witch" } }
+		{ id: "148A988442B0C421", item: { count: 1, id: "plushie_buddies:plushie_wither" } }
+		{ id: "24045294BA0DA81C", item: { count: 1, id: "plushie_buddies:plushie_wither_skeleton" } }
+		{ id: "19D847231B42930A", item: { count: 1, id: "plushie_buddies:plushie_wolf" } }
+		{ id: "49363DD260A09899", item: { count: 1, id: "plushie_buddies:plushie_zoglin" } }
+		{ id: "037D647003882CFE", item: { count: 1, id: "plushie_buddies:plushie_zombie" } }
+		{ id: "61827D14FB4E2231", item: { count: 1, id: "plushie_buddies:plushie_zombie_villager" } }
+		{ id: "15FB60D170F8A9B9", item: { count: 1, id: "plushie_buddies:plushie_zombified_piglin" } }
+	]
+}

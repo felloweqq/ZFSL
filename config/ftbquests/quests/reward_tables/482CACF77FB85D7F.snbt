@@ -1,0 +1,20 @@
+{
+	id: "482CACF77FB85D7F"
+	loot_size: 1
+	order_index: 21
+	rewards: [
+		{ id: "771344E6248CB5BE", item: { count: 1, id: "irons_spellbooks:fire_rune" } }
+		{ id: "7336AFA4C976D722", item: { count: 1, id: "irons_spellbooks:ice_rune" } }
+		{ id: "42ED7499445A5E95", item: { count: 1, id: "irons_spellbooks:lightning_rune" } }
+		{ id: "02B1140495F2C005", item: { count: 1, id: "irons_spellbooks:ender_rune" } }
+		{ id: "259F8E4EADC5187C", item: { count: 1, id: "irons_spellbooks:holy_rune" } }
+		{ id: "0EDBE937338D6B98", item: { count: 1, id: "irons_spellbooks:blood_rune" } }
+		{ id: "51FD902E798DF991", item: { count: 1, id: "irons_spellbooks:evocation_rune" } }
+		{ id: "4DD22FB515323769", item: { count: 1, id: "irons_spellbooks:arcane_rune" } }
+		{ id: "5B8266B86A403822", item: { count: 1, id: "irons_spellbooks:cooldown_rune" } }
+		{ id: "364661EFF6BB4F54", item: { count: 1, id: "gtbcs_geomancy_plus:geo_rune" } }
+		{ id: "2751530859C9644A", item: { count: 1, id: "wind_spellbooks:wind_rune" } }
+		{ id: "4D70C2EA0F3092E6", item: { count: 1, id: "irons_spellbooks:nature_rune" } }
+		{ id: "177BF900302481A1", item: { count: 1, id: "irons_spellbooks:protection_rune" } }
+	]
+}

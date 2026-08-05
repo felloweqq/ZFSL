@@ -1,0 +1,22 @@
+{
+  "type": "cognition:molecular_metamorphosis",
+  "ingredient1": {
+    "item": "minecraft:enchanted_golden_apple"
+  },
+  "count1": 1,
+  "ingredient2": {
+    "item": "irons_spellbooks:protection_rune"
+  },
+  "count2": 1,
+  "ingredient3": {
+    "item": "quark:ancient_fruit"
+  },
+  "count3": 1,
+  "result": {
+    "id": "relics:glitchy_mantle",
+    "count": 1
+  },
+  "cost": 1395,
+  "processTime": 3600,
+  "id": "cognition:glitchy_mantle_metamorphosis"
+}

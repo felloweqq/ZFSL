@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "mythsandlegends:bound_soul_ingot"
+    },
+    "B": {
+      "item": "mythsandlegends:amarok_essence"
+    },
+    "C": {
+      "item": "alshanex_familiars:hunter_shard"
+    },
+    "D": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "CDC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "mythsandlegends:necklace_of_torngarsuk"
+  }
+}

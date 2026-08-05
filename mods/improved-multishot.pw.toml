@@ -1,0 +1,13 @@
+name = "Improved Multishot"
+filename = "improved_multishot-1.0.2-1.21.1-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "449eb84ec06e956aa02952d8c13ea2052c30c2a4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7119383
+project-id = 1362670

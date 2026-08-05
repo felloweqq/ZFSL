@@ -1,0 +1,13 @@
+name = "Iron Barrels: Overhauled"
+filename = "IronBarrels1.21.1-V1.02NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d446666915c005897e3f10716bcf7c97e1a9b411"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8388691
+project-id = 1143402

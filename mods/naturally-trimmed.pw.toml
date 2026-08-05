@@ -1,0 +1,13 @@
+name = "Naturally Trimmed"
+filename = "naturally_trimmed-3.5.0+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d0f923cf44fa5d588b45a941a5a38b0a9abfe803"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8352579
+project-id = 1005441

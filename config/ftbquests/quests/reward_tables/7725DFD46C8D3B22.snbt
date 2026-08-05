@@ -1,0 +1,359 @@
+{
+	id: "7725DFD46C8D3B22"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{
+			count: 3
+			id: "6DD9B7E72B646F95"
+			item: {
+				count: 1
+				id: "minecraft:oak_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "004BC1DD2E9330E8"
+			item: {
+				count: 1
+				id: "minecraft:spruce_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "41E50D8CE6E55D99"
+			item: {
+				count: 1
+				id: "minecraft:birch_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "63FD4CFA04CD86E3"
+			item: {
+				count: 1
+				id: "minecraft:jungle_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "15201A0359B75247"
+			item: {
+				count: 1
+				id: "minecraft:acacia_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "68518663C669523B"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "51084E56E8CF2E18"
+			item: {
+				count: 1
+				id: "minecraft:cherry_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0513F9CEFABFD0C8"
+			item: {
+				count: 1
+				id: "arts_and_crafts:cork_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "798888F075B47EE2"
+			item: {
+				count: 1
+				id: "natures_spirit:redwood_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "4629C435EE6BB360"
+			item: {
+				count: 1
+				id: "natures_spirit:sugi_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "7894D0EA2F6BEC23"
+			item: {
+				count: 1
+				id: "natures_spirit:purple_wisteria_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "5E346809DE9F45F8"
+			item: {
+				count: 1
+				id: "natures_spirit:white_wisteria_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "327541B6E8C8C90F"
+			item: {
+				count: 1
+				id: "natures_spirit:blue_wisteria_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "314101B62C14D410"
+			item: {
+				count: 1
+				id: "natures_spirit:pink_wisteria_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "775AFEBA28F3CE6C"
+			item: {
+				count: 1
+				id: "natures_spirit:fir_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "268AEB4A733CEFDF"
+			item: {
+				count: 1
+				id: "natures_spirit:willow_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "3CEFA6A37BFD8673"
+			item: {
+				count: 1
+				id: "natures_spirit:aspen_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "6A381DDA8EB8CA5F"
+			item: {
+				count: 1
+				id: "natures_spirit:red_maple_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "46DCA594BD7ADD2F"
+			item: {
+				count: 1
+				id: "natures_spirit:orange_maple_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "4D496DC4DAF06264"
+			item: {
+				count: 1
+				id: "natures_spirit:yellow_maple_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "5FAC160C099AD997"
+			item: {
+				count: 1
+				id: "natures_spirit:cypress_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "692673161A3C2E70"
+			item: {
+				count: 1
+				id: "natures_spirit:olive_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "227B5F97EAE81E51"
+			item: {
+				count: 1
+				id: "natures_spirit:joshua_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "254B66AAC65E19C4"
+			item: {
+				count: 1
+				id: "natures_spirit:ghaf_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0EEF4C39525B745A"
+			item: {
+				count: 1
+				id: "natures_spirit:palo_verde_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "7E696E7581F52006"
+			item: {
+				count: 1
+				id: "natures_spirit:cedar_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "25B0BC9E375849A9"
+			item: {
+				count: 1
+				id: "natures_spirit:larch_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "364948F0A0D37FAF"
+			item: {
+				count: 1
+				id: "natures_spirit:mahogany_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "4BDE180D979AC400"
+			item: {
+				count: 1
+				id: "natures_spirit:saxaul_sapling"
+			}
+		}
+		{
+			count: 2
+			id: "6FB9C3DCC6283596"
+			item: {
+				count: 1
+				id: "primal:thorny_acacia_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "610F05E8D18FF380"
+			item: {
+				count: 1
+				id: "quark:blue_blossom_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0C6DBB5070B3100D"
+			item: {
+				count: 1
+				id: "quark:lavender_blossom_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0C481A8340782587"
+			item: {
+				count: 1
+				id: "quark:orange_blossom_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0353E70F02341DEF"
+			item: {
+				count: 1
+				id: "quark:yellow_blossom_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "1480EA014161FD95"
+			item: {
+				count: 1
+				id: "quark:red_blossom_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "24400077228DEBD3"
+			item: {
+				count: 1
+				id: "nomansland:autumnal_oak_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "6EF0853E96E2E398"
+			item: {
+				count: 1
+				id: "nomansland:pine_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "4E4A5B136D751C5D"
+			item: {
+				count: 1
+				id: "nomansland:yellow_birch_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "459965442BC24C8F"
+			item: {
+				count: 1
+				id: "nomansland:maple_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "3A1D1A216B9CFBAB"
+			item: {
+				count: 1
+				id: "nomansland:red_maple_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "5D14454D2E40E32F"
+			item: {
+				count: 1
+				id: "nomansland:walnut_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "0A0E2F02955F32E6"
+			item: {
+				count: 1
+				id: "nomansland:willow_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "6E54A059B12EE61B"
+			item: {
+				count: 1
+				id: "nomansland:pale_cherry_sapling"
+			}
+		}
+		{
+			count: 3
+			id: "30E91A045599B98F"
+			item: {
+				count: 1
+				id: "primal:thorny_acacia_sapling"
+			}
+		}
+	]
+}

@@ -1,0 +1,2 @@
+#Enable extra Multishot levels (2 and 3). Default: true
+enableExtraLevels = false

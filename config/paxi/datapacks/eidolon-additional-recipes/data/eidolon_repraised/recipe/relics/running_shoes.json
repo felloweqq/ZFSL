@@ -1,0 +1,32 @@
+{
+  "type": "eidolon_repraised:worktable",
+  "pattern": [
+    "t t",
+    "c c",
+    "s s"
+  ],
+  "reagents": [
+    "bnbn"
+  ],
+  "key": {
+    "t": {
+      "item": "minecraft:string"
+    },
+    "c": {
+      "item": "irons_spellbooks:magic_cloth"
+    },
+    "s": {
+      "item": "nomansland:sturdy_scute"
+    },
+    "b": {
+      "item": "creaturefeature:blitz_rod"
+    },
+    "n": {
+      "item": "eidolon_repraised:sildrian_seed"
+    }
+  },
+  "result": {
+    "count": 1,
+    "id": "artifacts:running_shoes"
+  }
+}

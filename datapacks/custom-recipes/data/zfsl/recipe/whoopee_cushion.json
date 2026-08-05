@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "R": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    " L ",
+    "RCR",
+    " L "
+  ],
+  "result": {
+    "count": 1,
+    "id": "artifacts:whoopee_cushion"
+  }
+}

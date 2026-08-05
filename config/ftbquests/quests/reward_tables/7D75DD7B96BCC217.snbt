@@ -1,0 +1,79 @@
+{
+	id: "7D75DD7B96BCC217"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 2
+			id: "497E0C4375C4C6BB"
+			item: {
+				count: 1
+				id: "endermanoverhaul:crimson_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "6D2E6DD10F857730"
+			item: {
+				count: 1
+				id: "endermanoverhaul:warped_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "533FC5877989D3AE"
+			item: {
+				count: 1
+				id: "endermanoverhaul:corrupted_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "03D171C3E5896C49"
+			item: {
+				count: 1
+				id: "endermanoverhaul:summoner_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "259BDFBB2890AB5E"
+			item: {
+				count: 1
+				id: "endermanoverhaul:soul_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "76E4C155EC6BF2C9"
+			item: {
+				count: 1
+				id: "endermanoverhaul:icy_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			count: 2
+			id: "634091EF20CAD65E"
+			item: {
+				count: 1
+				id: "endermanoverhaul:bubble_pearl"
+			}
+			random_bonus: 2
+		}
+		{
+			id: "170F1CFF99A9855A"
+			item: {
+				count: 1
+				id: "endermanoverhaul:ancient_pearl"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+	]
+}
