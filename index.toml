@@ -2055,18 +2055,6 @@ file = "config/yo_hooks/yo_hooks-server.json"
 hash = "68fe9a5475ff4aa45a805d878986a680bf788879f7b575b80ea1283c03502715"
 
 [[files]]
-file = "datapacks/agrofix-disable/data/aggrofix/enchantment/aggrobaiting.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "datapacks/agrofix-disable/data/aggrofix/enchantment/aggronizing.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "datapacks/agrofix-disable/pack.mcmeta"
-hash = "2f915f3a31c1c55586d893e3fedebc8df51717b6de0f43c0a0d91ad4d72b8b6b"
-
-[[files]]
 file = "datapacks/alshanexs-familiars-taming-item/data/familiarslib/tags/item/familiar_taming.json"
 hash = "d24e02ea62d77ef2ae611291c5fdd6df77e8e897c47596281599f8e2e911c048"
 
@@ -4586,6 +4574,10 @@ metafile = true
 file = "mods/playeranimator.pw.toml"
 hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
+
+[[files]]
+file = "mods/playersafelogin-1.0.1.jar"
+hash = "6b58161a46be7bc46d7372e8634b7e7f89ee7d495656a16640d08af197c03e98"
 
 [[files]]
 file = "mods/plushie-buddies.pw.toml"
