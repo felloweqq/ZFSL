@@ -1661,7 +1661,7 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/Clean Connected Glass [1.20-26.x].zip"
+file = "config/paxi/resourcepacks/Clean-Connected-Glass.zip"
 hash = "5135696f51f3c9d54bcecffdaa93c5e4896d5ad7732de46f008c840396828d80"
 
 [[files]]
@@ -5037,7 +5037,7 @@ hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Clean Connected Glass [1.20-26.x].zip"
+file = "resourcepacks/Clean-Connected-Glass.zip"
 hash = "5135696f51f3c9d54bcecffdaa93c5e4896d5ad7732de46f008c840396828d80"
 
 [[files]]
