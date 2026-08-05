@@ -3,11 +3,11 @@ filename = "wildex-3.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b23f7d5959f196f724c450f0ce9b3c26dd2d08a3"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/NiLz1hiU/versions/bTs8kSoW/wildex-3.0.0.jar"
+hash-format = "sha512"
+hash = "522a9b5a49a702bb948bab795a375631db19bf3a4d52fef45460c7bd4b47ce7510909960db757109d87a4db7a21d7294d80e5695f1e25126b8062bbb7ab790bb"
 
 [update]
-[update.curseforge]
-file-id = 7785157
-project-id = 1458326
+[update.modrinth]
+mod-id = "NiLz1hiU"
+version = "bTs8kSoW"

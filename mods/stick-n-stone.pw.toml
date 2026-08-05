@@ -3,11 +3,11 @@ filename = "sticknstone-1.1.0-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "68fe65a1f1000f30b4c7932a8be0503bddfbce9d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/E7F2ftx2/versions/2OxSaLTR/sticknstone-1.1.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "f7e5d8183b9b03fe33e9acd35bab64780f91365ab590d6993c3e802dbdd98e07a340909f3dbb8380dd8386e40e7ae7e1855a5952a29f87ae638a12fd6f06c835"
 
 [update]
-[update.curseforge]
-file-id = 6782254
-project-id = 982820
+[update.modrinth]
+mod-id = "E7F2ftx2"
+version = "2OxSaLTR"

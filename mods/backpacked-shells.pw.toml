@@ -3,11 +3,11 @@ filename = "backpacked-shells-1.0.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "b0f86dab13807ebff19ab081e8bf76c9945803bf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/TKAMHvcV/versions/wqD0NoTo/backpacked-shells-1.0.1.jar"
+hash-format = "sha512"
+hash = "1b40823fde7852daa37a3f63f63ed383ea6ab72df3d070fd6007b6d3f067d0fdd381277a5700a52424840fcab8e92d381e2c6dcbc89ed2f055f1289788b9cdff"
 
 [update]
-[update.curseforge]
-file-id = 8014240
-project-id = 1442204
+[update.modrinth]
+mod-id = "TKAMHvcV"
+version = "wqD0NoTo"

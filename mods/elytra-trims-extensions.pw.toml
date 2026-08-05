@@ -1,13 +1,13 @@
 name = "Elytra Trims Extensions"
 filename = "elytratrims_extensions-neoforge-2.2.2.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "0d623f56c8190969bfc7c956407620df3051c1df"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/5edtQ4at/versions/WL476nZW/elytratrims_extensions-neoforge-2.2.2.jar"
+hash-format = "sha512"
+hash = "144d072bcc4f68a7b5cfb45c140fbcc8ff62bf51cb4fe861cc36c3f3f5529ff5658b4dc997e2f84ba0a250894ea2803a104f72b01a4320601e90c2b5eb412038"
 
 [update]
-[update.curseforge]
-file-id = 8010341
-project-id = 876856
+[update.modrinth]
+mod-id = "5edtQ4at"
+version = "WL476nZW"

@@ -1,13 +1,13 @@
 name = "Iron Core"
-filename = "IronCore1.20.1-V1.0NeoForge.jar"
+filename = "IronCore1.21.1-V1.0NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "31f471a28c6818712e65b784e52fa235fc5d7a55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/6XfkflEQ/versions/y7Lff0GR/IronCore1.21.1-V1.0NeoForge.jar"
+hash-format = "sha512"
+hash = "ffc918680c02a518696cb9a7749544bbe1908340190826b03aed26807096ecfc34dfe678097bc3e4c7b2556edccb1ac1623953cf30e159e05b45b1700aceea5c"
 
 [update]
-[update.curseforge]
-file-id = 8383533
-project-id = 1600198
+[update.modrinth]
+mod-id = "6XfkflEQ"
+version = "y7Lff0GR"

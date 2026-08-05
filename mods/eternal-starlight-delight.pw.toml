@@ -3,11 +3,11 @@ filename = "eternal_starlight_delight-neoforge-1.3.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "873e62c709c087b31f82a0bbb654c894efc8e382"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/YylITkmH/versions/TAxZLsgW/eternal_starlight_delight-neoforge-1.3.0.jar"
+hash-format = "sha512"
+hash = "581b3d79ebebf83a087dbd90ec01e15eb6ae00191dc8925f159a778d70f4a7a6e4bd3bd77507a49d3661262eeb26e1cbdfbcf3bc8b33e7ffab2ef947e56f3238"
 
 [update]
-[update.curseforge]
-file-id = 8148695
-project-id = 1460499
+[update.modrinth]
+mod-id = "YylITkmH"
+version = "TAxZLsgW"
