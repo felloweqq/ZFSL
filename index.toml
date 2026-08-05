@@ -2055,6 +2055,10 @@ file = "config/yo_hooks/yo_hooks-server.json"
 hash = "68fe9a5475ff4aa45a805d878986a680bf788879f7b575b80ea1283c03502715"
 
 [[files]]
+file = "datapacks/Tide Extra Compatibility 2.2.zip"
+hash = "a7b2fe5a6ac591e127ac1ce6f35074baecc7e4e5b5f4842eae824c208a55cbee"
+
+[[files]]
 file = "datapacks/alshanexs-familiars-taming-item/data/familiarslib/tags/item/familiar_taming.json"
 hash = "d24e02ea62d77ef2ae611291c5fdd6df77e8e897c47596281599f8e2e911c048"
 
@@ -3197,11 +3201,6 @@ hash = "744fe0922b05e089c5cf85e28dc1e328fa8565f6d8b62cf8d6d4942ebeeaa1b2"
 [[files]]
 file = "datapacks/tempad-recipe-tweaks/pack.mcmeta"
 hash = "a0cd5be18d592231c3d39ca6b5f68291461cf1b889a33aad89440994fb40bc8a"
-
-[[files]]
-file = "datapacks/tide-extra-compatibility.pw.toml"
-hash = "eaa27f1d0c91286d2addafad13ae916a6142f578610e8573df88b82592488ad8"
-metafile = true
 
 [[files]]
 file = "datapacks/undead-unleashed-tweaks/data/undead_unleashed/loot_table/entities/dreadknight.json"
@@ -4610,11 +4609,6 @@ hash = "5328219480c6d7aa255c6288f2839b683ffc1bcc52449383244cd11cfbf85f83"
 metafile = true
 
 [[files]]
-file = "mods/project-1152512.pw.toml"
-hash = "1d75396fa90578d6f62e7191e4d8b222bc6f0998629e02bd65484ef56fe97565"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6a07261762a29c6108ea6030ec71ff6801e03127a0004cf105490004c77eacf5"
 metafile = true
@@ -5047,6 +5041,14 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "d1baffd370868590fcb2785146c278df5781d20994022749c53c0f9b2bffc7fc"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Clean Connected Glass [1.20-26.x].zip"
+hash = "5135696f51f3c9d54bcecffdaa93c5e4896d5ad7732de46f008c840396828d80"
+
+[[files]]
+file = "resourcepacks/Unique Dark - Lite - 1.20.2-26.x.zip"
+hash = "47135724573895393ce9a2f2292724e616670e0f8b5bbea6af4b97be782ace26"
 
 [[files]]
 file = "resourcepacks/clean-connected-glass.pw.toml"
