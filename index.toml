@@ -1661,9 +1661,12 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/resourcepacks/clean-connected-glass.pw.toml"
-hash = "e75f4716bcb01d4751e28ba4820664c0a25c644ca86640ab6c8b230feef55195"
-metafile = true
+file = "config/paxi/resourcepacks/Clean Connected Glass [1.20-26.x].zip"
+hash = "5135696f51f3c9d54bcecffdaa93c5e4896d5ad7732de46f008c840396828d80"
+
+[[files]]
+file = "config/paxi/resourcepacks/Unique Dark - Lite - 1.20.2-26.x.zip"
+hash = "47135724573895393ce9a2f2292724e616670e0f8b5bbea6af4b97be782ace26"
 
 [[files]]
 file = "config/paxi/resourcepacks/clearer-water.pw.toml"
@@ -1683,11 +1686,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/terrabiomes-music.pw.toml"
 hash = "56854707d200a78a761e0d00f209e6dbd73a5e2a33026a6fe5629596a8b866d1"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/unique-dark.pw.toml"
-hash = "8f8f20cbb8741b518e7146f6d6bf65a2dec9d0f9112db3bdea051624dfdee21d"
 metafile = true
 
 [[files]]
